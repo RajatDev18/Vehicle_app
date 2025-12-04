@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-8">
+        <div class="card prediction-card mb-4">
+            <h2 class="mb-3">Estimated Market Value</h2>
+            <div class="price-tag">{{ prediction }}</div>
+            <p class="mb-0 opacity-75">Based on the specifications provided</p>
+        </div>
+
+        <div class="card">
+            <div class="card-header">
+                <h4 class="mb-0">Vehicle Summary</h4>
+            </div>
+            <div class="card-body">
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <p class="mb-1 text-muted">Vehicle</p>
+                        <p class="fw-bold">{{ inputs.year }} {{ inputs.make }} {{ inputs.model }}</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="mb-1 text-muted">Trim</p>
+                        <p class="fw-bold">{{ inputs.trim }}</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="mb-1 text-muted">Mileage</p>
+                        <p class="fw-bold">{{ inputs.mileage }} miles</p>
+                    </div>
+                    <div class="col-md-6">
+                        <p class="mb-1 text-muted">Transmission</p>
+                        <p class="fw-bold">{{ inputs.transmission }}</p>
+                    </div>
+                </div>
+
+                <hr class="my-4">
+
+                <div class="d-grid">
+                    <a href="/" class="btn btn-outline-primary">Predict Another Vehicle</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,956 @@
+make,model,year,price,cylinders,fuel,mileage,transmission,trim,body,doors,exterior_color,interior_color,drivetrain,mileage_bucket,turbo,vehicle_age,annual_mileage
+Jeep,Wagoneer,2024,74600.0,6,Gasoline,10.0,automatic,Series II,SUV,4,White,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee,2024,50170.0,6,Gasoline,1.0,automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,1.0
+GMC,Yukon XL,2024,96410.0,8,Gasoline,0.0,automatic,Denali,SUV,4,Summit White,Teak/Light Shale,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Durango,2023,46835.0,8,Gasoline,32.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,16.0
+RAM,3500,2024,81663.0,6,Diesel,10.0,automatic,Laramie,Pickup Truck,4,Silver,Black,Four-wheel Drive,brand new,0,1,10.0
+Nissan,Murano,2024,46000.0,6,Gasoline,3838.0,cvt,Platinum,SUV,4,White,Gray,All-wheel Drive,early used,0,1,3838.0
+Jeep,Wagoneer,2024,63862.0,6,Gasoline,5.0,automatic,Base,SUV,4,Bright White Clearcoat,Black,Rear-wheel Drive,brand new,0,1,5.0
+Ford,F-350,2024,89978.0,8,Diesel,15.0,automatic,Lariat Super Duty,Pickup Truck,4,Carbonized Gray Metallic,Black Onyx,Four-wheel Drive,brand new,0,1,15.0
+Hyundai,Tucson Hybrid,2024,42230.0,4,Hybrid,5.0,automatic,Limited,SUV,4,White Pearl,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee,2024,42773.0,6,Gasoline,20.0,automatic,Altitude,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,20.0
+Jeep,Compass,2024,37743.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,60904.0,6,Diesel,532.0,automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,slightly used,0,1,532.0
+Hyundai,Santa Cruz,2024,43419.0,4,Gasoline,1.0,automatic,2.5T Limited,Pickup Truck,4,Atlas,Dark Gray,All-wheel Drive,brand new,0,1,1.0
+Jeep,Grand Cherokee,2024,44022.0,6,Gasoline,12.0,automatic,Altitude,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,12.0
+Chevrolet,Blazer EV,2024,51695.0,5,Electric,4.0,single-speed (EV),2LT,SUV,4,Sterling Gray Metallic,Black,All-wheel Drive,brand new,0,1,4.0
+Hyundai,Santa Cruz,2024,38574.0,4,Gasoline,12.0,automatic,2.5T XRT,Pickup Truck,4,Blue Stone,Black,All-wheel Drive,brand new,0,1,12.0
+Nissan,Murano,2024,48000.0,6,Gasoline,87.0,cvt,Platinum,SUV,4,Deep Ocean Blue,Beige,All-wheel Drive,brand new,0,1,87.0
+Ford,Explorer,2024,53190.0,4,Gasoline,15.0,automatic,Timberline,SUV,4,Star White,Ebony,Four-wheel Drive,brand new,0,1,15.0
+Volkswagen,Taos,2024,32751.0,4,Gasoline,25.0,automatic,1.5T SE,SUV,4,Blue,Black Cloud,All-wheel Drive,brand new,0,1,25.0
+Volkswagen,Jetta,2024,24348.0,4,Gasoline,13.0,automatic,1.4T S,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,brand new,0,1,13.0
+RAM,3500,2024,65221.0,6,Diesel,344.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,test driven,0,1,344.0
+Dodge,Hornet,2024,39491.0,4,Hybrid,5.0,automatic,R/T,SUV,4,HOT TAMALE,Black,All-wheel Drive,brand new,0,1,5.0
+Hyundai,Tucson,2024,30305.0,4,Gasoline,11.0,automatic,SEL,SUV,4,White Pearl,Black,Front-wheel Drive,brand new,0,1,11.0
+GMC,Terrain,2024,44120.0,4,Gasoline,0.0,automatic,Denali,SUV,4,Ebony,Jet Blk,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Santa Cruz,2024,33160.0,4,Gasoline,1.0,automatic,2.5L SEL,Pickup Truck,4,Blue Stone,Black,All-wheel Drive,brand new,0,1,1.0
+Ford,Explorer,2024,40940.0,4,Gasoline,7.0,automatic,XLT,SUV,4,Star White,Ebony,Rear-wheel Drive,brand new,0,1,7.0
+Jeep,Compass,2024,34084.0,4,Gasoline,12.0,automatic,Limited,SUV,4,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Chrysler,Pacifica,2024,48705.0,6,Gasoline,8.0,automatic,Touring-L,Passenger Van,4,Diamond Black,Black,All-wheel Drive,brand new,0,1,8.0
+Chevrolet,Blazer EV,2024,52190.0,5,Electric,6.0,single-speed (EV),2LT,SUV,4,Radiant Red,Black,All-wheel Drive,brand new,0,1,6.0
+RAM,2500,2024,58855.0,8,Gasoline,0.0,automatic,Tradesman,Pickup Truck,4,Granite,Black,Four-wheel Drive,brand new,0,1,0.0
+Nissan,Murano,2024,39867.0,6,Gasoline,2.0,cvt,SV,SUV,4,White,Graphite,Front-wheel Drive,brand new,0,1,2.0
+Ford,Transit-250,2024,53595.0,6,E85 Flex Fuel,10.0,automatic,148 WB Medium Roof Cargo,Cargo Van,3,Oxford White,Dark Palazzo Gray,Rear-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee 4xe,2023,59547.0,4,Hybrid,185.0,automatic,Trailhawk,SUV,4,Diamond Black,Global Black,Four-wheel Drive,test driven,0,2,92.5
+Kia,EV6,2024,49820.0,5,Electric,13.0,automatic,GT,SUV,4,Yacht Blue,Black,All-wheel Drive,brand new,0,1,13.0
+Volkswagen,Jetta,2024,27175.0,4,Gasoline,5.0,automatic,1.4T SE,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,brand new,0,1,5.0
+Ford,Mustang Mach-E,2024,47790.0,5,Electric,5.0,single-speed (EV),Premium,SUV,4,Vapor Blue,Black,All-wheel Drive,brand new,0,1,5.0
+Chevrolet,Silverado 1500,2024,58610.0,8,Gasoline,0.0,automatic,RST,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,0.0
+Kia,Seltos,2024,29640.0,4,Gasoline,16.0,cvt,EX,SUV,4,Steel Gray,Black,All-wheel Drive,brand new,0,1,16.0
+Chevrolet,Blazer,2024,43727.0,6,Gasoline,9.0,automatic,3LT,SUV,4,Copper Bronze,Jet Black,All-wheel Drive,brand new,0,1,9.0
+GMC,Terrain,2024,35870.0,4,Gasoline,0.0,automatic,SLE,SUV,4,Summit White,Jet Blk Premium Clth,All-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,64670.0,6,Diesel,15.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,brand new,0,1,15.0
+Jeep,Wrangler,2024,46973.0,4,Gasoline,10.0,automatic,Sport S,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee 4xe,2024,54905.0,4,Hybrid,1.0,automatic,Trailhawk,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,1.0
+Mazda,CX-90 PHEV,2024,50915.0,4,Hybrid,7.0,automatic,Preferred,SUV,4,Machine Gray Metallic,Black,All-wheel Drive,brand new,0,1,7.0
+Acura,MDX,2024,65595.0,6,Gasoline,16.0,automatic,Advance,SUV,4,Gray,unknown,All-wheel Drive,brand new,0,1,16.0
+Jeep,Compass,2024,28860.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,7.0
+Dodge,Durango,2023,46835.0,8,Gasoline,21.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,10.5
+Subaru,Outback,2024,44354.0,4,Gasoline,8.0,cvt,Wilderness,SUV,4,Magnetite,Gray,All-wheel Drive,brand new,0,1,8.0
+Volkswagen,Atlas Cross Sport,2024,51721.0,4,Gasoline,11.0,automatic,2.0T SEL,SUV,4,Silver Mist Metallic,unknown,All-wheel Drive,brand new,0,1,11.0
+Hyundai,IONIQ 5,2024,44195.0,5,Electric,14.0,single-speed (EV),SE Standard Range,SUV,4,Atlas,Gray,Rear-wheel Drive,brand new,0,1,14.0
+Audi,Q8 e-tron,2024,86670.0,5,Electric,5.0,automatic,S line Premium,SUV,4,Glacier White Metallic,Pearl Beige,All-wheel Drive,brand new,0,1,5.0
+Volkswagen,Jetta,2024,24348.0,4,Gasoline,6.0,automatic,1.4T S,Sedan,4,Pure White,Titan Black,Front-wheel Drive,brand new,0,1,6.0
+Hyundai,Sonata Hybrid,2024,38870.0,4,Hybrid,14.0,automatic,Limited,Sedan,4,Portofino Gray,Dark Gray,Front-wheel Drive,brand new,0,1,14.0
+Kia,EV9,2024,52388.0,5,Electric,1.0,single-speed (EV),Light Long Range,SUV,4,Aurora Black Pearl,Gray,Rear-wheel Drive,brand new,0,1,1.0
+Dodge,Durango,2024,58709.0,8,Gasoline,15.0,automatic,R/T,SUV,4,Night,Black,All-wheel Drive,brand new,0,1,15.0
+Dodge,Hornet,2024,42855.0,4,Gasoline,5.0,automatic,R/T EAWD,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,34990.0,4,Gasoline,10.0,automatic,GT,SUV,4,Q BALL,Black,All-wheel Drive,brand new,0,1,10.0
+Kia,Sportage Hybrid,2024,34835.0,4,Hybrid,9.0,automatic,EX,SUV,4,Gravity Gray,Black,All-wheel Drive,brand new,0,1,9.0
+Ford,Expedition,2024,69955.0,6,Gasoline,8.0,automatic,XLT,SUV,4,Silver,Black Onyx,Four-wheel Drive,brand new,0,1,8.0
+Dodge,Hornet,2024,39581.0,4,Hybrid,5.0,automatic,R/T,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,5.0
+Volkswagen,Atlas,2024,49166.0,4,Gasoline,0.0,automatic,2.0T Peak Edition SE w/Technology,SUV,4,Avocado Green,Titan Black,All-wheel Drive,brand new,0,1,0.0
+Hyundai,IONIQ 5,2024,55365.0,5,Electric,10.0,single-speed (EV),Limited,SUV,4,Cyber Gray,Black,Rear-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee L,2024,51360.0,6,Gasoline,8.0,automatic,Limited,SUV,4,Bright White Clearcoat,Beige / Black,Rear-wheel Drive,brand new,0,1,8.0
+Hyundai,Tucson,2024,40474.0,4,Gasoline,5.0,automatic,Limited,SUV,4,Shimmering Silver,Gray,All-wheel Drive,brand new,0,1,5.0
+BMW,X7,2024,89450.0,6,Gasoline,10.0,automatic,xDrive40i,SUV,4,Black Sapphire Metallic,Cognac,All-wheel Drive,brand new,0,1,10.0
+Jeep,Compass,2024,28860.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,7.0
+Toyota,Tundra Hybrid,2024,62341.0,6,Hybrid,4357.0,automatic,Limited,Pickup Truck,4,Ice Cap,Black,Four-wheel Drive,early used,0,1,4357.0
+Hyundai,IONIQ 5,2024,42015.0,5,Electric,7.0,single-speed (EV),SE,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,7.0
+Nissan,Kicks,2024,24500.0,4,Gasoline,10.0,cvt,SV,SUV,4,Aspen White Tricoat,Charcoal,Front-wheel Drive,brand new,0,1,10.0
+Buick,Envista,2024,27075.0,3,Gasoline,6.0,automatic,Preferred,SUV,4,Sunrise Red Metallic,Ebony,Front-wheel Drive,brand new,0,1,6.0
+Acura,MDX,2024,51645.0,6,Gasoline,5.0,automatic,Base,SUV,4,Black,unknown,Front-wheel Drive,brand new,0,1,5.0
+Nissan,Rogue,2024,35975.0,3,Gasoline,4.0,automatic,SV,SUV,4,Gun Metallic,Charcoal,All-wheel Drive,brand new,0,1,4.0
+Jeep,Wagoneer,2024,63057.0,6,Gasoline,8.0,automatic,Base,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,8.0
+Nissan,Rogue,2024,36405.0,3,Gasoline,5.0,automatic,SV,SUV,4,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive,brand new,0,1,5.0
+Jeep,Wagoneer L,2024,86137.0,6,Gasoline,5.0,automatic,Series II Carbide 4x4,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Kia,Sportage,2024,27969.0,4,Gasoline,0.0,automatic,S,SUV,4,Gravity Gray,Black,Front-wheel Drive,brand new,0,1,0.0
+Acura,MDX,2024,51645.0,6,Gasoline,5.0,automatic,Base,SUV,4,White,unknown,Front-wheel Drive,brand new,0,1,5.0
+RAM,3500,2024,63223.0,6,Diesel,13.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,13.0
+Dodge,Durango,2023,47785.0,8,Gasoline,32.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,16.0
+Nissan,Murano,2024,46000.0,6,Gasoline,5.0,cvt,Platinum,SUV,4,Deep Ocean Blue,Beige,All-wheel Drive,brand new,0,1,5.0
+Nissan,Rogue,2024,41180.0,3,Gasoline,3.0,automatic,SL,SUV,4,Boulder Gray Pearl,Charcoal,All-wheel Drive,brand new,0,1,3.0
+Dodge,Hornet,2024,44720.0,4,Hybrid,5.0,automatic,R/T,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,49390.0,6,Gasoline,8.0,automatic,Limited,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,8.0
+Jeep,Compass,2024,28860.0,4,Gasoline,9.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,9.0
+Mercedes-Benz,EQE 350+,2024,76535.0,5,Electric,375.0,single-speed (EV),Base,Sedan,4,Polar White,Gray,Rear-wheel Drive,test driven,0,1,375.0
+Buick,Envista,2024,31805.0,3,Gasoline,8.0,automatic,Avenir,SUV,4,Ocean Blue Metallic,Ebony,Front-wheel Drive,brand new,0,1,8.0
+Dodge,Durango,2024,44160.0,6,Gasoline,12.0,automatic,GT,SUV,4,Vapor Gray,Black,Rear-wheel Drive,brand new,0,1,12.0
+Hyundai,Sonata,2024,28469.0,4,Gasoline,0.0,automatic,SEL,Sedan,4,White,Dark Gray,All-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,58930.0,6,Diesel,13.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,13.0
+GMC,Terrain,2024,35236.0,4,Gasoline,0.0,automatic,SLT,SUV,4,Ebony Twilight Metallic,Jet Black,All-wheel Drive,brand new,0,1,0.0
+Jeep,Wagoneer,2024,60555.0,6,Gasoline,5.0,automatic,Base,SUV,4,Diamond Black,Black,Rear-wheel Drive,brand new,0,1,5.0
+Ford,Ranger,2024,38740.0,4,Gasoline,8.0,automatic,XL,Pickup Truck,4,Carbonized Gray Metallic,Ebony,Four-wheel Drive,brand new,0,1,8.0
+Audi,SQ5,2024,21433.68,6,Gasoline,14.0,automatic,Premium Plus,SUV,4,Ultra Blue Metallic,Black,All-wheel Drive,brand new,0,1,14.0
+RAM,3500,2024,66334.0,6,Diesel,6.0,automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Bright White Clearcoat,Black Interior Color,Four-wheel Drive,brand new,0,1,6.0
+Audi,Q5 e,2024,73020.0,4,Gasoline,12.0,automatic,55 Premium Plus,SUV,4,Gray Metallic,Black,All-wheel Drive,brand new,0,1,12.0
+RAM,3500,2024,89555.0,6,Diesel,12.0,automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,12.0
+RAM,3500,2024,65315.0,6,Diesel,9.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,9.0
+Mazda,CX-90 PHEV,2024,58599.0,4,Hybrid,8.0,automatic,Premium Plus,SUV,4,Soul,Black,All-wheel Drive,brand new,0,1,8.0
+Ford,Mustang Mach-E,2023,50473.0,5,Electric,12.0,single-speed (EV),GT,SUV,4,Rapid Red Metallic Tinted Clearcoat,Gray,All-wheel Drive,brand new,0,2,6.0
+Dodge,Hornet,2024,47234.0,4,Hybrid,0.0,automatic,R/T Plus,SUV,4,Gold,Black,All-wheel Drive,brand new,0,1,0.0
+Chevrolet,Silverado 1500,2024,44161.0,4,Gasoline,2.0,automatic,Custom,Pickup Truck,4,Black,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Chevrolet,Silverado 1500,2024,49496.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Chevrolet,Silverado 1500,2024,43475.0,4,Gasoline,2.0,automatic,WT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Dodge,Charger,2023,36083.0,6,Gasoline,20.0,automatic,SXT,Sedan,4,White,Black,Rear-wheel Drive,brand new,0,2,10.0
+Chevrolet,Silverado 1500,2024,54559.0,8,Gasoline,148.0,automatic,RST,Pickup Truck,4,Sterling Gray Metallic,Jet Black,Four-wheel Drive,test driven,0,1,148.0
+Mercedes-Benz,Sprinter 2500,2024,60061.0,4,Diesel,58.0,automatic,Standard Roof,Cargo Van,3,Silver Gray,Black,Rear-wheel Drive,brand new,0,1,58.0
+Jeep,Compass,2024,28867.0,4,Gasoline,1.0,automatic,Latitude,SUV,4,Baltic Gray Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,1.0
+Honda,CR-V Hybrid,2024,42005.0,4,Hybrid,1.0,cvt,Sport Touring,SUV,4,Radiant Red Metallic,Black,All-wheel Drive,brand new,0,1,1.0
+Hyundai,IONIQ 6,2024,45005.0,5,Electric,12.0,automatic,SEL,Sedan,4,White,Black,Rear-wheel Drive,brand new,0,1,12.0
+Hyundai,Tucson Hybrid,2024,35864.0,4,Hybrid,5.0,automatic,SEL Convenience,SUV,4,Amazon Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Compass,2023,30000.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Red Line,Steel Gry Premium Cl,Four-wheel Drive,brand new,0,2,0.0
+Kia,Sportage,2024,34000.0,4,Gasoline,10.0,automatic,X-Line,SUV,4,Glacial White Pearl,Black,All-wheel Drive,brand new,0,1,10.0
+Jeep,Compass,2024,29342.0,4,Gasoline,6.0,automatic,Sport,SUV,4,Laser Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Ford,Transit-150,2024,55645.0,6,E85 Flex Fuel,59.0,automatic,Base,Cargo Van,3,Race Red,Ebony,All-wheel Drive,brand new,0,1,59.0
+Audi,Q8 e-tron,2024,83630.0,5,Electric,5.0,automatic,Premium,SUV,4,Glacier White Metallic,Pearl Beige,All-wheel Drive,brand new,0,1,5.0
+Jeep,Wrangler,2024,59456.0,6,Gasoline,15.0,automatic,4-Door Sahara 4x4,SUV,4,unknown,Black,Four-wheel Drive,brand new,0,1,15.0
+Jeep,Grand Cherokee,2024,39714.0,6,Gasoline,14.0,automatic,Laredo,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,14.0
+Chevrolet,Silverado 1500,2024,49628.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Hyundai,Tucson Hybrid,2024,33089.0,4,Hybrid,25.0,automatic,Blue,SUV,4,Amazon Gray,Gray,All-wheel Drive,brand new,0,1,25.0
+Mercedes-Benz,EQE 350+,2024,79765.0,5,Electric,9.0,single-speed (EV),Base,Sedan,4,Twilight Blue Metallic,Gray,Rear-wheel Drive,brand new,0,1,9.0
+Dodge,Charger,2023,65075.0,8,Gasoline,18.0,automatic,Scat Pack,Sedan,4,Blue,Black,Rear-wheel Drive,brand new,0,2,9.0
+Jeep,Compass,2024,38980.0,4,Gasoline,9.0,automatic,Limited,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,9.0
+Hyundai,Santa Fe,2024,49905.0,4,Gasoline,1.0,automatic,Calligraphy,SUV,4,Green,Black,All-wheel Drive,brand new,0,1,1.0
+Jeep,Grand Cherokee 4xe,2024,58235.0,4,Gasoline,3.0,automatic,4x4,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,3.0
+Volkswagen,Taos,2024,27998.0,4,Gasoline,3.0,automatic,1.5T SE,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive,brand new,0,1,3.0
+Chevrolet,Equinox,2024,25515.0,4,Gasoline,8.0,automatic,LS,SUV,4,Summit White,Medium Ash Gray,Front-wheel Drive,brand new,0,1,8.0
+Subaru,Solterra,2024,39934.0,5,Gasoline,5.0,single-speed (EV),Premium,SUV,4,Galactic,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Wrangler 4xe,2024,66960.0,4,Hybrid,5.0,automatic,Rubicon,SUV,4,Earl Clearcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Mazda,CX-90 PHEV,2024,53395.0,4,Gasoline,5.0,automatic,Base,SUV,4,Rhodium White Premium,Greige,All-wheel Drive,brand new,0,1,5.0
+Hyundai,IONIQ 5,2024,61775.0,5,Electric,12.0,automatic,Disney100 Platinum Edition,SUV,4,Gold,Gray,All-wheel Drive,brand new,0,1,12.0
+RAM,ProMaster 2500,2024,53272.0,6,Gasoline,1.0,automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,1.0
+Lincoln,Corsair,2024,51361.0,4,Gasoline,3.0,automatic,Reserve,SUV,4,Infinite Black Metallic,Ebony,All-wheel Drive,brand new,0,1,3.0
+GMC,Savana 2500,2024,44595.0,6,Gasoline,3.0,automatic,Work Van,Cargo Van,3,Summit White,unknown,Rear-wheel Drive,brand new,0,1,3.0
+Chrysler,Pacifica Hybrid,2024,60600.0,6,Hybrid,10.0,cvt,Select,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,38575.0,4,Gasoline,10.0,automatic,GT,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,10.0
+Acura,ZDX,2024,69850.0,0,Electric,0.0,automatic,A-SPEC,SUV,4,unknown,unknown,All-wheel Drive,brand new,0,1,0.0
+Nissan,Altima,2024,31225.0,4,Gasoline,6.0,cvt,2.5 SV,Sedan,4,Black,Charcoal,Front-wheel Drive,brand new,0,1,6.0
+Hyundai,Sonata Hybrid,2024,32520.0,4,Hybrid,11.0,automatic,SEL,Sedan,4,Portofino Gray,Gray,Front-wheel Drive,brand new,0,1,11.0
+Dodge,Charger,2023,35821.0,6,Gasoline,20.0,automatic,SXT,Sedan,4,Black,Black,Rear-wheel Drive,brand new,0,2,10.0
+Mazda,CX-90 PHEV,2024,60200.0,4,Gasoline,33.0,automatic,Base,SUV,4,Jet Black Mica,White,All-wheel Drive,brand new,0,1,33.0
+Dodge,Hornet,2024,36532.0,4,Gasoline,14.0,automatic,GT AWD,SUV,4,Gray Cray,Black,All-wheel Drive,brand new,0,1,14.0
+Jeep,Grand Cherokee 4xe,2024,61506.0,4,Gasoline,3.0,automatic,Anniversary Edition,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,3.0
+Mazda,CX-90 PHEV,2024,59625.0,4,Gasoline,2.0,automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive,brand new,0,1,2.0
+Mercedes-Benz,EQS 450,2024,109545.0,5,Electric,10.0,single-speed (EV),Base 4MATIC,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,35480.0,4,Gasoline,0.0,automatic,Hornet Gt Awd,SUV,4,Hot Tamale,Black,All-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,31200.0,4,Gasoline,11.0,automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive,brand new,0,1,11.0
+Jeep,Wrangler 4xe,2024,54835.0,4,Gasoline,11.0,automatic,Sport S,SUV,4,Silver Zynith Clearcoat,Black,Four-wheel Drive,brand new,0,1,11.0
+Jeep,Grand Cherokee,2024,52115.0,6,Gasoline,13.0,automatic,Limited,SUV,4,Metallic,Beige / Black,Four-wheel Drive,brand new,0,1,13.0
+Volkswagen,Taos,2024,32011.0,4,Gasoline,11.0,automatic,1.5T SE,SUV,4,Pure White,Black,Front-wheel Drive,brand new,0,1,11.0
+RAM,ProMaster 3500,2024,53099.0,6,Gasoline,30.0,automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,30.0
+Dodge,Durango,2023,46835.0,8,Gasoline,32.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,16.0
+Volkswagen,Taos,2024,30383.0,4,Gasoline,13.0,automatic,1.5T SE,SUV,4,Pure Gray W/Black Roof,Black,Front-wheel Drive,brand new,0,1,13.0
+Cadillac,XT5,2024,46890.0,4,Gasoline,10.0,automatic,Luxury,SUV,4,Crystal White Tri-Coat,Jet Black,Front-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee,2024,37729.0,6,Gasoline,10.0,automatic,Laredo,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Jeep,Wrangler 4xe,2024,53535.0,4,Hybrid,4.0,automatic,Sport,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive,brand new,0,1,4.0
+Dodge,Charger,2023,37490.0,6,Gasoline,20.0,automatic,SXT,Sedan,4,Green,Black,Rear-wheel Drive,brand new,0,2,10.0
+Dodge,Hornet,2024,44600.0,4,Hybrid,5.0,automatic,R/T Plus,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,5.0
+Dodge,Durango,2024,45038.0,6,Gasoline,5.0,automatic,GT,SUV,4,Vapor Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Acura,MDX,2024,56155.0,6,Gasoline,3.0,automatic,Technology,SUV,4,White,unknown,All-wheel Drive,brand new,0,1,3.0
+Jeep,Wrangler,2024,60972.0,6,Gasoline,12.0,automatic,Rubicon,SUV,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Jeep,Gladiator,2023,53796.0,6,Gasoline,0.0,automatic,Rubicon,Pickup Truck,4,High Velocity Clearcoat,Black,Four-wheel Drive,brand new,0,2,0.0
+Dodge,Hornet,2024,41497.0,4,Gasoline,11.0,automatic,R/T EAWD,SUV,4,Hot Tamale,Black,All-wheel Drive,brand new,0,1,11.0
+Volkswagen,Taos,2024,25311.0,4,Gasoline,9.0,automatic,1.5T S,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive,brand new,0,1,9.0
+Dodge,Charger,2023,35913.0,6,Gasoline,15.0,automatic,SXT,Sedan,4,Blue,Black,Rear-wheel Drive,brand new,0,2,7.5
+INFINITI,QX50,2024,48350.0,4,Gasoline,3.0,other,LUXE,SUV,4,Slate Gray,Pebble Gray,Front-wheel Drive,brand new,0,1,3.0
+Nissan,Versa,2024,21433.68,4,Gasoline,9.0,cvt,1.6 SV,Sedan,4,Aspen White,Graphite,Front-wheel Drive,brand new,0,1,9.0
+GMC,Savana 2500,2024,44620.0,6,Gasoline,12.0,automatic,Work Van,Cargo Van,3,SILVER,unknown,Rear-wheel Drive,brand new,0,1,12.0
+Mercedes-Benz,AMG GLE 53,2024,90995.0,6,Gasoline,10.0,automatic,Base,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,10.0
+Mazda,CX-90 PHEV,2024,56079.0,4,Hybrid,0.0,automatic,Premium,SUV,4,Rhodium White Metallic,Black,All-wheel Drive,brand new,0,1,0.0
+Ford,F-350,2024,52263.0,8,Gasoline,10.0,automatic,XL,Pickup Truck,2,Race Red,Medium Earth Gray,Four-wheel Drive,brand new,0,1,10.0
+Dodge,Durango,2023,46835.0,8,Gasoline,29.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,14.5
+Dodge,Hornet,2024,42991.0,4,Hybrid,14.0,automatic,R/T,SUV,4,HOT TAMALE,Black,All-wheel Drive,brand new,0,1,14.0
+Jeep,Grand Cherokee 4xe,2024,54910.0,4,Hybrid,10.0,automatic,Trailhawk,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Audi,A5 Sportback,2024,56105.0,4,Gasoline,12.0,automatic,S line Premium Plus,Hatchback,4,Navarra Blue Metallic,Black,All-wheel Drive,brand new,0,1,12.0
+Lincoln,Nautilus,2024,64370.0,4,Gasoline,8.0,automatic,Reserve,SUV,4,Gray Metallic,Black Onyx,All-wheel Drive,brand new,0,1,8.0
+Dodge,Durango,2023,44790.0,6,Gasoline,32.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,16.0
+Chevrolet,Trailblazer,2024,32580.0,3,Gasoline,0.0,automatic,RS,SUV,4,Crimson Metallic,Jet Black w/Red Accents,All-wheel Drive,brand new,0,1,0.0
+BMW,i4 Gran Coupe,2024,69685.0,5,Electric,5.0,single-speed (EV),eDrive40,Hatchback,4,Black,Tacora Red,Rear-wheel Drive,brand new,0,1,5.0
+Hyundai,Santa Cruz,2024,34330.0,4,Gasoline,11.0,automatic,2.5L SEL,Pickup Truck,4,Atlas,Gray,All-wheel Drive,brand new,0,1,11.0
+Dodge,Hornet,2024,37430.0,4,Gasoline,9.0,automatic,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive,brand new,0,1,9.0
+Hyundai,Santa Cruz,2024,42015.0,4,Gasoline,1.0,automatic,2.5T XRT,Pickup Truck,4,Blue Stone,Black,All-wheel Drive,brand new,0,1,1.0
+Hyundai,Santa Cruz,2024,32925.0,4,Gasoline,1.0,automatic,2.5L SEL,Pickup Truck,4,Blue Stone,Black,All-wheel Drive,brand new,0,1,1.0
+Jeep,Wrangler 4xe,2024,57870.0,4,Hybrid,5.0,automatic,Sahara,SUV,4,Pearlcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Compass,2024,28265.0,4,Gasoline,11.0,automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,11.0
+Volkswagen,Taos,2024,30618.0,4,Gasoline,7.0,automatic,1.5T SE,SUV,4,Pure White,Gray,All-wheel Drive,brand new,0,1,7.0
+Ford,Escape,2024,31985.0,3,Gasoline,2.0,automatic,Active,SUV,4,Carbonized Gray Metallic,Ebony Black,Front-wheel Drive,brand new,0,1,2.0
+Ford,Bronco Sport,2024,35210.0,3,Gasoline,0.0,automatic,Outer Banks,SUV,4,Shadow Black,Ebony/Roast,Four-wheel Drive,brand new,0,1,0.0
+Hyundai,Santa Fe,2024,42455.0,4,Gasoline,1.0,automatic,XRT,SUV,4,Shimmering Silver,Black,All-wheel Drive,brand new,0,1,1.0
+Hyundai,IONIQ 6,2023,51820.0,5,Electric,12.0,single-speed (EV),SEL,Sedan,4,Gold,Gray,All-wheel Drive,brand new,0,2,6.0
+Hyundai,IONIQ 5,2024,49795.0,5,Electric,4.0,single-speed (EV),SEL,SUV,4,Atlas,Gray,Rear-wheel Drive,brand new,0,1,4.0
+Jeep,Compass,2024,31721.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Durango,2024,44852.0,6,Gasoline,13.0,automatic,GT,SUV,4,Vapor Gray,Black,All-wheel Drive,brand new,0,1,13.0
+Dodge,Hornet,2024,32485.0,4,Gasoline,48.0,automatic,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive,brand new,0,1,48.0
+Dodge,Durango,2023,46835.0,8,Gasoline,34.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,17.0
+Jeep,Grand Cherokee L,2024,39370.0,6,Gasoline,0.0,automatic,Laredo,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Hornet,2024,45844.0,4,Hybrid,1.0,automatic,R/T,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,1.0
+Jeep,Wagoneer L,2024,78543.0,6,Gasoline,16.0,automatic,Series II,SUV,4,Riverrock Green,Global Black,Four-wheel Drive,brand new,0,1,16.0
+Hyundai,Elantra HEV,2024,27080.0,4,Hybrid,13.0,automatic,Blue,Sedan,4,Serenity White,Medium Gray,Front-wheel Drive,brand new,0,1,13.0
+RAM,3500,2024,83940.0,6,Diesel,6.0,automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Patriot Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Volkswagen,Atlas Cross Sport,2024,48541.0,4,Gasoline,10.0,automatic,2.0T SEL R-Line,SUV,4,Silver Bird Metallic,Mauro Brown,All-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,81036.0,6,Diesel,0.0,automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,White,Black,Four-wheel Drive,brand new,0,1,0.0
+Mazda,CX-90 PHEV,2024,54949.0,4,Hybrid,8.0,automatic,Premium,SUV,4,Soul,Black,All-wheel Drive,brand new,0,1,8.0
+RAM,3500,2024,67562.0,6,Diesel,13.0,automatic,Tradesman/SLT/Laramie/Limited,Pickup Truck,4,White,Black Interior Color,Four-wheel Drive,brand new,0,1,13.0
+Mazda,CX-90 PHEV,2024,58399.0,4,Hybrid,4.0,automatic,Premium Plus,SUV,4,Rhodium White Premium,Black,All-wheel Drive,brand new,0,1,4.0
+Lexus,RX 500h,2024,73270.0,4,Hybrid,21.0,automatic,F SPORT PERFORMANCE,SUV,4,Caviar,Black,All-wheel Drive,brand new,0,1,21.0
+RAM,3500,2024,89040.0,6,Diesel,5.0,automatic,Laramie Mega Cab 4x4 6&#39;4&#39; Box,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,5.0
+Hyundai,IONIQ 5,2024,52905.0,5,Electric,12.0,single-speed (EV),SEL,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,12.0
+Ford,Mustang Mach-E,2024,46920.0,5,Electric,10.0,single-speed (EV),Premium,SUV,4,Shadow Black,Black Onyx,All-wheel Drive,brand new,0,1,10.0
+Chevrolet,Silverado 1500,2024,65175.0,6,Diesel,0.0,automatic,LT Trail Boss,Pickup Truck,4,Slate Gray Metallic,Jet Black,Four-wheel Drive,brand new,0,1,0.0
+Nissan,Versa,2024,21433.68,4,Gasoline,11.0,cvt,1.6 SR,Sedan,4,Gun Metallic,Gray,Front-wheel Drive,brand new,0,1,11.0
+Mazda,CX-90 PHEV,2024,50599.0,4,Hybrid,4.0,automatic,Preferred,SUV,4,Rhodium White Premium,Greige,All-wheel Drive,brand new,0,1,4.0
+Ford,Mustang Mach-E,2023,46935.0,5,Electric,11.0,single-speed (EV),GT,SUV,4,Black,Black,All-wheel Drive,brand new,0,2,5.5
+Hyundai,Santa Fe,2024,38100.0,4,Gasoline,1.0,automatic,SE 2.4,SUV,4,White,Gray,All-wheel Drive,brand new,0,1,1.0
+Kia,Sportage,2024,31190.0,4,Gasoline,10.0,automatic,EX,SUV,4,Glacial White Pearl,Black,Front-wheel Drive,brand new,0,1,10.0
+Jeep,Wrangler 4xe,2024,50755.0,4,Hybrid,8.0,automatic,Sport,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Hyundai,IONIQ 5,2024,42201.0,5,Electric,8.0,automatic,SEL,SUV,4,Gold,Gray,Rear-wheel Drive,brand new,0,1,8.0
+Honda,Prologue,2024,55800.0,5,Gasoline,8.0,single-speed (EV),TOURING,SUV,4,BX,Gray,All-wheel Drive,brand new,0,1,8.0
+Hyundai,Tucson Hybrid,2024,35404.0,4,Hybrid,10.0,automatic,SEL Convenience,SUV,4,White,Black,All-wheel Drive,brand new,0,1,10.0
+Hyundai,Tucson Hybrid,2024,35656.0,4,Hybrid,9.0,automatic,N Line,SUV,4,Titanium Gray,Black,All-wheel Drive,brand new,0,1,9.0
+Jeep,Compass,2024,32660.0,4,Gasoline,9.0,automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,9.0
+Hyundai,IONIQ 6,2024,50850.0,5,Electric,10.0,automatic,SE,Sedan,4,Serenity White,Black,All-wheel Drive,brand new,0,1,10.0
+Jeep,Wrangler 4xe,2024,61860.0,4,Hybrid,5.0,automatic,Rubicon,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Volkswagen,Taos,2024,25895.0,4,Gasoline,8.0,automatic,1.5T S,SUV,4,Deep Black Pearl Effect,Black,All-wheel Drive,brand new,0,1,8.0
+Nissan,Kicks,2024,26600.0,4,Gasoline,15.0,cvt,SR,SUV,4,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive,brand new,0,1,15.0
+BMW,i5,2024,91825.0,5,Electric,7.0,single-speed (EV),M60,Sedan,4,Mineral White,Black,All-wheel Drive,brand new,0,1,7.0
+Hyundai,Santa Cruz,2024,37325.0,4,Gasoline,1.0,automatic,2.5L SEL,Pickup Truck,4,Sage Gray,Gray,All-wheel Drive,brand new,0,1,1.0
+Jeep,Grand Cherokee,2024,52642.0,6,Gasoline,6.0,automatic,Limited,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Compass,2024,40235.0,4,Gasoline,10.0,automatic,Limited,SUV,4,Sting Gray Clearcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+Dodge,Durango,2023,46835.0,8,Gasoline,5.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,2.5
+Hyundai,Santa Cruz,2024,42064.0,4,Gasoline,1.0,automatic,2.5T XRT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive,brand new,0,1,1.0
+Hyundai,Tucson Hybrid,2024,39832.0,4,Hybrid,10.0,automatic,Limited,SUV,4,Deep Sea,Black,All-wheel Drive,brand new,0,1,10.0
+Jeep,Wagoneer,2024,65928.0,6,Gasoline,8.0,automatic,Base,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Dodge,Hornet,2024,41036.0,4,Gasoline,5.0,automatic,R/T EAWD,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,5.0
+Volkswagen,Taos,2024,33331.0,4,Gasoline,13.0,automatic,1.5T SEL,SUV,4,Pure White,Black,All-wheel Drive,brand new,0,1,13.0
+Dodge,Hornet,2024,51835.0,4,Hybrid,33.0,automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive,brand new,0,1,33.0
+Hyundai,IONIQ 5,2024,42466.0,5,Electric,16.0,single-speed (EV),SE,SUV,4,Atlas,Gray,All-wheel Drive,brand new,0,1,16.0
+Dodge,Durango,2023,47340.0,8,Gasoline,34.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,17.0
+Jeep,Grand Cherokee L,2024,54209.0,6,Gasoline,10.0,automatic,Limited,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,86505.0,6,Diesel,49.0,automatic,Laramie,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,49.0
+Dodge,Hornet,2024,48595.0,4,Gasoline,0.0,other,Hornet R/T Plus Eawd,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,0.0
+Mazda,MX-5 Miata RF,2023,38040.0,4,Gasoline,3.0,automatic,Grand Touring,Convertible,2,Snowflake White Pearl,Black,Rear-wheel Drive,brand new,0,2,1.5
+Acura,MDX,2024,52950.0,6,Gasoline,3.0,automatic,Base,SUV,4,Gray,unknown,All-wheel Drive,brand new,0,1,3.0
+Jeep,Grand Cherokee L,2024,52567.0,6,Gasoline,246.0,automatic,Limited,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,test driven,0,1,246.0
+Dodge,Durango,2023,47340.0,8,Gasoline,33.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,16.5
+Jeep,Wagoneer,2024,87488.0,6,Gasoline,22.0,automatic,Series II,SUV,4,Riverrock Green,Global Black,Four-wheel Drive,brand new,0,1,22.0
+Hyundai,IONIQ 5,2024,43904.0,5,Electric,6.0,single-speed (EV),SE,SUV,4,Blue,Gray,All-wheel Drive,brand new,0,1,6.0
+Chevrolet,Blazer EV,2024,55090.0,5,Electric,9.0,single-speed (EV),RS,SUV,4,Radiant Red,Black,All-wheel Drive,brand new,0,1,9.0
+Mercedes-Benz,EQS 450,2024,110262.7,5,Electric,5.0,automatic,Base 4MATIC,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee,2024,44737.0,6,Gasoline,6.0,automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,6.0
+Volkswagen,ID.4,2024,41693.0,5,Electric,0.0,single-speed (EV),Standard,SUV,4,Deep Black Pearl Effect,Nutmeg,Rear-wheel Drive,brand new,0,1,0.0
+Hyundai,Santa Cruz,2024,41995.0,4,Gasoline,1.0,automatic,2.5T XRT,Pickup Truck,4,Sage Gray,Black,All-wheel Drive,brand new,0,1,1.0
+Honda,CR-V,2024,38855.0,4,Hybrid,6.0,automatic,Hybrid Sport-L,SUV,4,Still Night Pearl,Black,Front-wheel Drive,brand new,0,1,6.0
+Jeep,Grand Cherokee 4xe,2024,58909.0,4,Gasoline,34.0,automatic,Trailhawk,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,34.0
+RAM,2500,2024,65350.0,8,Gasoline,0.0,automatic,Big Horn,Pickup Truck,4,Patriot Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,0.0
+Jeep,Grand Cherokee L,2024,49411.0,6,Gasoline,6.0,automatic,Altitude,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Wagoneer,2024,72908.0,6,Gasoline,8.0,automatic,Series II,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,8.0
+Jeep,Compass,2023,37105.0,4,Gasoline,8.0,automatic,Trailhawk,SUV,4,Granite Crystal Clearcoat Metallic,Ruby Red,Four-wheel Drive,brand new,0,2,4.0
+Dodge,Hornet,2024,50590.0,4,Hybrid,10.0,automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive,brand new,0,1,10.0
+Chevrolet,Silverado 2500,2024,70190.0,8,Diesel,5.0,automatic,LT,Pickup Truck,4,Dark Ash Metallic,Gideon/Very Dark Atmosphere,Four-wheel Drive,brand new,0,1,5.0
+Chevrolet,Equinox,2024,25515.0,4,Gasoline,5.0,automatic,LS,SUV,4,Mosaic Black Metallic,Medium Ash Gray,Front-wheel Drive,brand new,0,1,5.0
+Jeep,Wrangler,2024,59542.0,6,Gasoline,10.0,automatic,Rubicon,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+RAM,ProMaster 2500,2024,53445.0,6,Gasoline,6.0,automatic,High Roof,Cargo Van,3,Bright Silver Clearcoat Metallic,Black,Front-wheel Drive,brand new,0,1,6.0
+RAM,2500,2024,79675.0,6,Diesel,17.0,automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,17.0
+GMC,Sierra 3500,2024,87075.0,8,Diesel,9.0,automatic,SLT,Pickup Truck,4,Sterling Metallic,Dark Walnut / Slate,Four-wheel Drive,brand new,0,1,9.0
+Ford,Escape,2024,34799.0,3,Gasoline,3.0,automatic,Active,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive,brand new,0,1,3.0
+RAM,2500,2024,67125.0,6,Diesel,5.0,automatic,Laramie,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,46721.0,6,Gasoline,10.0,automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Kia,EV6,2024,43348.0,5,Electric,16.0,automatic,Wind,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,16.0
+Jeep,Grand Cherokee 4xe,2024,56119.0,4,Hybrid,10.0,automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Volkswagen,Taos,2024,28193.0,4,Gasoline,4.0,automatic,1.5T SE,SUV,4,Deep Black Pearl Effect,Black,Front-wheel Drive,brand new,0,1,4.0
+Mazda,CX-90 PHEV,2024,58949.0,4,Hybrid,26.0,automatic,Premium Plus,SUV,4,Artisan Red Premium,Black,All-wheel Drive,brand new,0,1,26.0
+Mazda,CX-90 PHEV,2024,54949.0,4,Hybrid,9.0,automatic,Premium,SUV,4,Artisan Red Premium,Black,All-wheel Drive,brand new,0,1,9.0
+Mazda,CX-90 PHEV,2024,54949.0,4,Hybrid,9.0,automatic,Premium,SUV,4,Red,Greige,All-wheel Drive,brand new,0,1,9.0
+Subaru,Legacy,2024,31042.0,4,Gasoline,5.0,cvt,Premium,Sedan,4,Ice Silver Metallic,Gray,All-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,34000.0,4,Gasoline,4440.0,automatic,GT AWD,SUV,4,Acapulco Gold,Black,All-wheel Drive,early used,0,1,4440.0
+Mazda,CX-90 PHEV,2024,54449.0,4,Hybrid,10.0,automatic,Premium,SUV,4,Sonic,Greige,All-wheel Drive,brand new,0,1,10.0
+Ford,F-350,2024,77885.0,8,Gasoline,105.0,automatic,Lariat Super Duty,Pickup Truck,4,Black,Black Onyx,Four-wheel Drive,test driven,0,1,105.0
+Jeep,Compass,2024,31535.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive,brand new,0,1,7.0
+Mazda,CX-90 PHEV,2024,50349.0,4,Hybrid,37.0,automatic,Preferred,SUV,4,Jet Black Mica,Black,All-wheel Drive,brand new,0,1,37.0
+Acura,MDX,2024,56345.0,6,Gasoline,5.0,automatic,Technology,SUV,4,Gray,unknown,Front-wheel Drive,brand new,0,1,5.0
+BMW,i4 Gran Coupe,2024,73670.0,5,Electric,5.0,single-speed (EV),M50,Hatchback,4,White,Tacora Red,All-wheel Drive,brand new,0,1,5.0
+Mazda,CX-90 PHEV,2024,50675.0,4,Hybrid,0.0,automatic,Preferred,SUV,4,Rhodium White Metallic,Black,All-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,64516.0,6,Diesel,14.0,automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,14.0
+Dodge,Hornet,2024,36480.0,4,Gasoline,23.0,automatic,GT,SUV,4,Gray Cray,Black,All-wheel Drive,brand new,0,1,23.0
+Audi,Q8 e-tron,2024,89780.0,5,Electric,5.0,automatic,Premium,SUV,4,Glacier White Metallic,Black,All-wheel Drive,brand new,0,1,5.0
+Dodge,Durango,2023,47340.0,8,Gasoline,33.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,16.5
+BMW,i7,2024,110262.7,5,Electric,5.0,single-speed (EV),eDrive50,Sedan,4,Black Sapphire Metallic,Black,Rear-wheel Drive,brand new,0,1,5.0
+Volkswagen,Jetta,2024,26104.0,4,Gasoline,9.0,automatic,1.4T SE,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,brand new,0,1,9.0
+Dodge,Hornet,2024,42790.0,4,Hybrid,10.0,automatic,R/T,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,10.0
+Dodge,Durango,2023,46835.0,8,Gasoline,30.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,15.0
+Dodge,Durango,2023,47340.0,8,Gasoline,35.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,17.5
+BMW,M235 Gran Coupe,2024,54545.0,4,Gasoline,10.0,automatic,i xDrive,Sedan,4,Black Sapphire Metallic,Black,All-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,65774.0,6,Diesel,13.0,automatic,Big Horn,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,13.0
+Nissan,Rogue,2024,34305.0,3,Gasoline,4.0,automatic,SV,SUV,4,Deep Ocean Blue Pearl,Charcoal,All-wheel Drive,brand new,0,1,4.0
+Dodge,Hornet,2024,44621.0,4,Hybrid,0.0,automatic,R/T Plus,SUV,4,Q BALL,Black,All-wheel Drive,brand new,0,1,0.0
+Dodge,Hornet,2024,39763.0,4,Hybrid,0.0,automatic,R/T,SUV,4,Gold,Black,All-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,67237.0,6,Diesel,6.0,automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive,brand new,0,1,6.0
+Honda,CR-V Hybrid,2024,36900.0,4,Hybrid,1.0,cvt,Sport,SUV,4,Lunar Silver Metallic,Black,All-wheel Drive,brand new,0,1,1.0
+Ford,Expedition,2024,90350.0,6,Gasoline,89.0,automatic,Limited,SUV,4,Star White,Black Onyx,Four-wheel Drive,brand new,0,1,89.0
+Ford,Expedition,2024,83910.0,6,Gasoline,65.0,automatic,Timberline,SUV,4,Green,Black Onyx,Four-wheel Drive,brand new,0,1,65.0
+Audi,Q8 e-tron,2024,84465.0,5,Electric,5.0,automatic,Premium,SUV,4,Glacier White Metallic,Okapi Brown,All-wheel Drive,brand new,0,1,5.0
+Chevrolet,Silverado 1500,2024,49944.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Kia,Sportage,2024,32433.0,4,Gasoline,0.0,automatic,S,SUV,4,White Pearl,Black,All-wheel Drive,brand new,0,1,0.0
+Kia,Sportage,2024,33095.0,4,Gasoline,10.0,automatic,SX,SUV,4,Ebony Black,Black,Front-wheel Drive,brand new,0,1,10.0
+Kia,Sportage,2024,39990.0,4,Gasoline,10.0,automatic,X-Pro Prestige,SUV,4,Glacial White Pearl,Black,All-wheel Drive,brand new,0,1,10.0
+Land Rover,Range Rover Evoque,2024,62145.0,4,Gasoline,19.0,automatic,Dynamic SE,SUV,4,Arroios Grey,Ebony,All-wheel Drive,brand new,0,1,19.0
+Honda,Odyssey,2024,48364.0,6,Gasoline,4.0,automatic,Elite,Passenger Van,4,Lunar Silver Metallic,Gray,Front-wheel Drive,brand new,0,1,4.0
+RAM,2500,2024,83374.0,6,Diesel,5.0,automatic,Longhorn,Pickup Truck,4,Diamond Black Crystal Pearlcoat,Lt Mountain Brown/Brown,Four-wheel Drive,brand new,0,1,5.0
+Honda,Prologue,2024,56550.0,5,Gasoline,1.0,single-speed (EV),TOURING,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,1.0
+Chevrolet,Equinox,2024,31222.0,4,Gasoline,2.0,automatic,FWD RS,SUV,4,Summit White,Jet Black With Red Accents,Front-wheel Drive,brand new,0,1,2.0
+GMC,Sierra 2500,2024,85845.0,8,Diesel,2.0,automatic,Denali,Pickup Truck,4,White Frost Tri-Coat,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Kia,Sportage,2024,30034.0,4,Gasoline,0.0,automatic,S,SUV,4,Gray,Gry Lthette,Front-wheel Drive,brand new,0,1,0.0
+Dodge,Durango,2023,44170.0,6,Gasoline,35.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,17.5
+Audi,Q5 e,2024,69995.0,4,Gasoline,12.0,automatic,Premium 55 TFSI e S line quattro S tronic,SUV,4,Daytona Gray Pearl,Gray,All-wheel Drive,brand new,0,1,12.0
+Volkswagen,Jetta,2024,27554.0,4,Gasoline,7.0,automatic,1.4T SE,Sedan,4,Opal White Pearl,Titan Black,Front-wheel Drive,brand new,0,1,7.0
+Nissan,Titan,2024,45716.0,8,Gasoline,10.0,automatic,SV,Pickup Truck,4,Super Black,Black,Four-wheel Drive,brand new,0,1,10.0
+Audi,RS e-tron GT,2024,110262.7,5,Electric,10.0,single-speed (EV),quattro,Sedan,4,Tactical Green Metallic,Black,All-wheel Drive,brand new,0,1,10.0
+Ford,Edge,2024,42715.0,4,Gasoline,2.0,automatic,ST-Line,SUV,4,Black,Ebony,All-wheel Drive,brand new,0,1,2.0
+Hyundai,Santa Cruz,2024,36970.0,4,Gasoline,1.0,automatic,2.5L SEL,Pickup Truck,4,Atlas,Black,All-wheel Drive,brand new,0,1,1.0
+Volkswagen,Jetta,2024,26329.0,4,Gasoline,25.0,automatic,1.5T SE,Sedan,4,Opal White Pearl Effect,Black,Front-wheel Drive,brand new,0,1,25.0
+Chevrolet,Equinox,2024,30101.0,4,Gasoline,2.0,automatic,1LT,SUV,4,Summit White,Jet Black,All-wheel Drive,brand new,0,1,2.0
+Jeep,Grand Cherokee 4xe,2024,54899.0,4,Hybrid,11.0,automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,11.0
+Kia,Sportage,2024,32198.0,4,Gasoline,0.0,automatic,S,SUV,4,Ebony,Black,All-wheel Drive,brand new,0,1,0.0
+Nissan,Titan,2024,54585.0,8,Gasoline,10.0,automatic,SV,Pickup Truck,4,Glacier White,Black,Four-wheel Drive,brand new,0,1,10.0
+Jeep,Compass,2024,35999.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,0.0
+Hyundai,Tucson Hybrid,2024,36882.0,4,Hybrid,11.0,automatic,SEL Convenience,SUV,4,White Pearl,Gray,All-wheel Drive,brand new,0,1,11.0
+Dodge,Durango,2023,47340.0,8,Gasoline,32.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,16.0
+INFINITI,QX50,2024,45055.0,4,Gasoline,25.0,other,LUXE,SUV,4,Black Obsidian,Pebble Gray,Front-wheel Drive,brand new,0,1,25.0
+RAM,3500,2024,69697.0,6,Diesel,2.0,automatic,Big Horn,Pickup Truck,4,White,Black / Diesel Gray,Four-wheel Drive,brand new,0,1,2.0
+Ford,Mustang Mach-E,2024,49285.0,5,Electric,5.0,single-speed (EV),Premium,SUV,4,Green,Black,All-wheel Drive,brand new,0,1,5.0
+Dodge,Durango,2023,47785.0,8,Gasoline,34.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,17.0
+Jeep,Wrangler 4xe,2024,51083.0,4,Gasoline,3.0,automatic,Sport S,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,3.0
+Kia,EV6,2024,41528.0,5,Electric,14.0,automatic,Wind,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,14.0
+Nissan,Kicks,2024,27400.0,4,Gasoline,15.0,cvt,SR,SUV,4,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive,brand new,0,1,15.0
+Mazda,CX-90 PHEV,2024,52445.0,4,Gasoline,5.0,automatic,Base,SUV,4,Deep Crystal Blue Mica,Greige,All-wheel Drive,brand new,0,1,5.0
+Hyundai,Tucson Hybrid,2024,34600.0,4,Hybrid,5.0,automatic,Blue,SUV,4,White Pearl,Gray,All-wheel Drive,brand new,0,1,5.0
+Dodge,Durango,2023,47165.0,8,Gasoline,39.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,19.5
+Jeep,Compass,2024,34084.0,4,Gasoline,12.0,automatic,Limited,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Jeep,Grand Cherokee,2024,50184.0,6,Gasoline,6.0,automatic,Limited,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,6.0
+Hyundai,IONIQ 5,2024,45842.0,5,Electric,5.0,single-speed (EV),SEL,SUV,4,Atlas,Black,All-wheel Drive,brand new,0,1,5.0
+Hyundai,Santa Cruz,2024,40380.0,4,Gasoline,1.0,automatic,2.5T NIGHT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive,brand new,0,1,1.0
+Land Rover,Discovery Sport,2024,55353.0,4,Gasoline,8.0,automatic,Dynamic SE,SUV,4,Fuji White,Gray,All-wheel Drive,brand new,0,1,8.0
+Mercedes-Benz,Sprinter 3500,2024,72357.0,4,Diesel,9.0,automatic,170 WB High Roof Extended Cargo,Cargo Van,3,Gray White,Black,Rear-wheel Drive,brand new,0,1,9.0
+Hyundai,Tucson Hybrid,2024,34492.0,4,Hybrid,10.0,automatic,Blue,SUV,4,White Pearl,Black,All-wheel Drive,brand new,0,1,10.0
+Hyundai,Santa Cruz,2024,36000.0,4,Gasoline,10.0,automatic,2.5T XRT,Pickup Truck,4,Atlas,Black,All-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee,2024,53160.0,6,Gasoline,6.0,automatic,Limited,SUV,4,Midnight Sky,Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Grand Cherokee 4xe,2024,59116.0,4,Gasoline,3.0,automatic,4x4,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,3.0
+Jeep,Wrangler,2024,67510.0,6,Gasoline,10.0,automatic,Rubicon,SUV,4,Anvil Clear Coat,Black,Four-wheel Drive,brand new,0,1,10.0
+Honda,Odyssey,2024,48187.0,6,Gasoline,4.0,automatic,Elite,Passenger Van,4,Radiant Red Metallic II,Beige,Front-wheel Drive,brand new,0,1,4.0
+Volkswagen,Jetta,2024,25923.0,4,Gasoline,25.0,automatic,1.5T SE,Sedan,4,Opal White Pearl Effect,Black,Front-wheel Drive,brand new,0,1,25.0
+Jeep,Grand Cherokee,2024,50702.0,6,Gasoline,6.0,automatic,Limited,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,6.0
+Volvo,XC90 Recharge Plug-In Hybrid,2024,75595.0,4,Hybrid,6.0,automatic,T8 Plus Bright Theme 7 Passenger,SUV,4,Bright,Charcoal,All-wheel Drive,brand new,0,1,6.0
+Jeep,Wrangler 4xe,2024,51845.0,4,Hybrid,7.0,automatic,Sport,SUV,4,Pearlcoat,Black,Four-wheel Drive,brand new,0,1,7.0
+Cadillac,XT5,2024,60915.0,6,Gasoline,31.0,automatic,Premium Luxury,SUV,4,Silver Metallic,Jet Black,Front-wheel Drive,brand new,0,1,31.0
+RAM,3500,2024,71167.0,6,Diesel,9.0,automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,9.0
+Hyundai,Santa Cruz,2024,41975.0,4,Gasoline,1.0,automatic,2.5T XRT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive,brand new,0,1,1.0
+Jeep,Compass,2024,38481.0,4,Gasoline,8.0,automatic,Limited,SUV,4,Silver Zynith,Sepia / Black,Four-wheel Drive,brand new,0,1,8.0
+Hyundai,Sonata Hybrid,2024,32520.0,4,Hybrid,10.0,automatic,SEL,Sedan,4,Red,Gray,Front-wheel Drive,brand new,0,1,10.0
+Kia,Sorento,2023,48861.0,4,Gasoline,16.0,automatic,SX,SUV,4,Wolf Gray,Black,All-wheel Drive,brand new,0,2,8.0
+Chevrolet,Equinox,2024,31537.0,4,Gasoline,11.0,automatic,LS,SUV,4,Summit White,Medium Ash Gray,All-wheel Drive,brand new,0,1,11.0
+Jeep,Grand Cherokee,2024,47175.0,6,Gasoline,0.0,automatic,Altitude,SUV,4,PAS Baltic Grey Metallic Clear Coat,Global Black,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Hornet,2024,51585.0,4,Hybrid,10.0,automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive,brand new,0,1,10.0
+Jeep,Wagoneer L,2023,86097.0,6,Gasoline,9711.0,automatic,Series III,SUV,4,Riverrock Green,Sea Salt,Four-wheel Drive,light used demo,0,2,4855.5
+Mercedes-Benz,EQS 450,2024,110262.7,5,Electric,8.0,single-speed (EV),Base 4MATIC,SUV,4,unknown,Black,All-wheel Drive,brand new,0,1,8.0
+Nissan,Frontier,2024,37946.0,6,Gasoline,9.0,automatic,SV,Pickup Truck,4,Glacier White,Charcoal,Rear-wheel Drive,brand new,0,1,9.0
+Chevrolet,Equinox,2024,31301.0,4,Gasoline,2.0,automatic,1LT,SUV,4,Mosaic Black Metallic,Jet Black,All-wheel Drive,brand new,0,1,2.0
+RAM,3500,2023,63010.0,8,Gasoline,95.0,automatic,Tradesman,Pickup Truck,2,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,2,47.5
+Nissan,Titan,2024,50030.0,8,Gasoline,1.0,automatic,SV,Pickup Truck,4,Gun Metallic,Black,Four-wheel Drive,brand new,0,1,1.0
+GMC,Savana 2500,2024,42990.0,6,Gasoline,0.0,automatic,Work Van,Cargo Van,3,Summit White,Medium Pewter,Rear-wheel Drive,brand new,0,1,0.0
+Chevrolet,Equinox,2024,32635.0,4,Gasoline,0.0,automatic,RS,SUV,4,Mosaic Black Metallic,Jet Black,Front-wheel Drive,brand new,0,1,0.0
+Nissan,Titan,2023,46672.0,8,Gasoline,1.0,automatic,SV,Pickup Truck,4,Super Black,Black,Four-wheel Drive,brand new,0,2,0.5
+Honda,HR-V,2024,27450.0,4,Gasoline,10.0,automatic,LX,SUV,4,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive,brand new,0,1,10.0
+Kia,Niro,2024,34310.0,4,Gasoline,13.0,automatic,Touring,SUV,4,Aurora Black,Medium Gray,Front-wheel Drive,brand new,0,1,13.0
+Buick,Encore GX,2024,36190.0,3,Gasoline,7.0,automatic,Avenir,SUV,4,Ocean Blue Metallic,Ebony,All-wheel Drive,brand new,0,1,7.0
+Mazda,CX-90 PHEV,2024,57849.0,4,Hybrid,4.0,automatic,Premium Plus,SUV,4,Jet Black Mica,Black,All-wheel Drive,brand new,0,1,4.0
+Ford,Edge,2024,44615.0,4,Gasoline,9.0,automatic,SEL,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive,brand new,0,1,9.0
+Kia,Sportage,2024,34985.0,4,Gasoline,10.0,automatic,SX,SUV,4,Wolf Gray,Black,Front-wheel Drive,brand new,0,1,10.0
+Jeep,Compass,2024,28867.0,4,Gasoline,10.0,automatic,Latitude,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+RAM,ProMaster 2500,2024,53890.0,6,Gasoline,3.0,automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,3.0
+Hyundai,IONIQ 6,2024,48510.0,5,Electric,12.0,automatic,SEL,Sedan,4,White,Gray,All-wheel Drive,brand new,0,1,12.0
+Genesis,Electrified G80,2023,81525.0,5,Electric,153.0,single-speed (EV),Base,Sedan,4,Uyuni White,Black,All-wheel Drive,test driven,0,2,76.5
+Hyundai,IONIQ 5,2024,52515.0,5,Electric,5.0,single-speed (EV),Limited,SUV,4,Gold,Black,All-wheel Drive,brand new,0,1,5.0
+Hyundai,Tucson Hybrid,2024,35364.0,4,Hybrid,33.0,automatic,SEL Convenience,SUV,4,Phantom Black,Black,All-wheel Drive,brand new,0,1,33.0
+Hyundai,Tucson Hybrid,2024,35885.0,4,Hybrid,15.0,automatic,N Line,SUV,4,Black Pearl,Black,All-wheel Drive,brand new,0,1,15.0
+Mercedes-Benz,GLE 450,2024,85630.0,6,Gasoline,7.0,automatic,4MATIC,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,7.0
+Jeep,Grand Cherokee,2024,47530.0,6,Gasoline,5.0,automatic,Laredo,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Wagoneer,2024,75888.0,6,Gasoline,8.0,automatic,Series II,SUV,4,Riverrock Green,Black,Four-wheel Drive,brand new,0,1,8.0
+Chevrolet,Silverado 1500,2024,49632.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Mazda,CX-90 PHEV,2024,55439.0,4,Hybrid,0.0,automatic,Premium,SUV,4,Artisan Red Metallic,Black,All-wheel Drive,brand new,0,1,0.0
+Volkswagen,Taos,2024,30618.0,4,Gasoline,11.0,automatic,1.5T SE,SUV,4,Deep Black Pearl Effect,Gray,All-wheel Drive,brand new,0,1,11.0
+Mercedes-Benz,GLS 450,2024,98180.0,6,Gasoline,5.0,automatic,4MATIC,SUV,4,Polar White,Beige / Black,All-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,44604.0,4,Hybrid,5.0,automatic,R/T Plus,SUV,4,8 BALL,Black,All-wheel Drive,brand new,0,1,5.0
+Acura,MDX,2024,57650.0,6,Gasoline,5.0,automatic,Technology,SUV,4,Gray,unknown,All-wheel Drive,brand new,0,1,5.0
+Jeep,Compass,2024,32269.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,0.0
+Hyundai,IONIQ 5,2024,42466.0,5,Electric,7.0,single-speed (EV),SE,SUV,4,Atlas,Black,All-wheel Drive,brand new,0,1,7.0
+Dodge,Hornet,2024,45051.0,4,Hybrid,5.0,automatic,R/T Plus,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Land Rover,Discovery Sport,2024,57508.0,4,Gasoline,19.0,automatic,Dynamic SE,SUV,4,Eiger Grey,Gray,All-wheel Drive,brand new,0,1,19.0
+Ford,Transit-250,2024,51803.0,6,Gasoline,1.0,automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive,brand new,0,1,1.0
+Mercedes-Benz,EQS 450,2024,110262.7,5,Electric,5.0,single-speed (EV),Base 4MATIC,SUV,4,Alpine Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Acura,MDX,2024,56800.0,6,Gasoline,5.0,automatic,Technology,SUV,4,Gray,unknown,Front-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,52631.0,6,Gasoline,10.0,automatic,Limited,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Jeep,Compass,2024,38500.0,4,Gasoline,8.0,automatic,Limited,SUV,4,Bright White,unknown,Four-wheel Drive,brand new,0,1,8.0
+Chevrolet,Trax,2024,24680.0,3,Gasoline,5.0,automatic,LT,SUV,4,Cayenne Orange Metallic,Jet Black,Front-wheel Drive,brand new,0,1,5.0
+BMW,i5,2024,96895.0,5,Electric,37.0,single-speed (EV),M60,Sedan,4,Black Sapphire,Black,All-wheel Drive,brand new,0,1,37.0
+Jeep,Wrangler 4xe,2024,54490.0,4,Gasoline,2.0,automatic,Rubicon X,SUV,4,Bikini Pearl Coat,Black,Four-wheel Drive,brand new,0,1,2.0
+RAM,3500,2024,80095.0,6,Diesel,20.0,automatic,Laramie,Pickup Truck,4,Flame Red Clearcoat,Black,Four-wheel Drive,brand new,0,1,20.0
+Honda,Odyssey,2024,44350.0,6,Gasoline,0.0,automatic,Touring,Passenger Van,4,Platinum White Pearl,Black,Front-wheel Drive,brand new,0,1,0.0
+RAM,ProMaster 3500,2023,66375.0,6,Gasoline,17.0,automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,2,8.5
+BMW,i5,2024,93335.0,5,Electric,3.0,single-speed (EV),M60,Sedan,4,Black Sapphire,Black,All-wheel Drive,brand new,0,1,3.0
+Chevrolet,Silverado 1500,2024,57635.0,8,Gasoline,5.0,automatic,Custom Trail Boss,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,5.0
+Chrysler,Pacifica,2023,45300.0,6,Gasoline,25.0,automatic,Touring L,Minivan,4,Fathom Blue Pearlcoat,Black/Alloy/Black,Front-wheel Drive,brand new,0,2,12.5
+Jeep,Compass,2024,28860.0,4,Gasoline,11.0,automatic,Latitude,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,11.0
+Dodge,Hornet,2024,34637.0,4,Gasoline,54.0,automatic,GT,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,54.0
+Jeep,Grand Cherokee,2024,50184.0,6,Gasoline,6.0,automatic,Limited,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Wagoneer L,2024,87190.0,6,Gasoline,12.0,automatic,Series II,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,12.0
+Mazda,CX-90 PHEV,2024,55399.0,4,Gasoline,2.0,automatic,Base,SUV,4,Soul Red Crystal Metallic,Griege,All-wheel Drive,brand new,0,1,2.0
+Hyundai,Tucson Hybrid,2024,41391.0,4,Hybrid,7.0,automatic,Limited,SUV,4,White Pearl,Gray,All-wheel Drive,brand new,0,1,7.0
+Ford,Bronco Sport,2024,30020.0,3,Gasoline,0.0,automatic,Big Bend,SUV,4,Oxford White,Ebony,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Durango,2023,46835.0,8,Gasoline,19.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,9.5
+BMW,i5,2024,74695.0,5,Electric,7.0,single-speed (EV),eDrive40,Sedan,4,Alpine White,Black,Rear-wheel Drive,brand new,0,1,7.0
+Jeep,Grand Cherokee L,2024,66360.0,6,Gasoline,27.0,automatic,Overland,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,27.0
+Nissan,Kicks,2024,26500.0,4,Gasoline,15.0,cvt,SR,SUV,4,Scarlet Ember Tintcoat,Charcoal,Front-wheel Drive,brand new,0,1,15.0
+Dodge,Durango,2023,53995.0,8,Gasoline,12.0,automatic,R/T,SUV,4,DB Black Clearcoat,Black,All-wheel Drive,brand new,0,2,6.0
+Land Rover,Defender,2024,77645.0,6,Gasoline,9.0,automatic,P400 X-Dynamic SE,SUV,2,Gondwana Stone,Ebony,Four-wheel Drive,brand new,0,1,9.0
+Jeep,Wrangler 4xe,2024,58648.0,4,Gasoline,3.0,automatic,Sahara,SUV,4,Anvil Clear Coat,Black,Four-wheel Drive,brand new,0,1,3.0
+Chrysler,Pacifica,2024,46450.0,6,Gasoline,42.0,automatic,Touring-L,Passenger Van,4,Bright White Clearcoat,Black,All-wheel Drive,brand new,0,1,42.0
+Ford,Edge,2024,41195.0,4,Gasoline,5.0,automatic,SEL,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive,brand new,0,1,5.0
+Jeep,Gladiator,2024,46791.0,6,Gasoline,12.0,automatic,Sport,Pickup Truck,4,Black Clearcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+GMC,Yukon XL,2024,76648.0,8,Gasoline,3.0,automatic,SLT,SUV,4,WHITE,unknown,Rear-wheel Drive,brand new,0,1,3.0
+Audi,SQ8 e-tron,2024,106215.0,5,Electric,12.0,automatic,Premium Plus,SUV,4,Mythos Black Metallic,Black,All-wheel Drive,brand new,0,1,12.0
+Dodge,Durango,2023,47165.0,8,Gasoline,31.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,15.5
+Audi,Q5 e,2024,78695.0,4,Gasoline,12.0,automatic,55 Prestige,SUV,4,Silver Metallic,Black,All-wheel Drive,brand new,0,1,12.0
+BMW,X7,2024,110262.7,8,Gasoline,447.0,automatic,M60i,SUV,4,Mineral White Metallic,Black,All-wheel Drive,test driven,0,1,447.0
+Jeep,Compass,2024,34182.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,0.0
+Kia,Sorento Hybrid,2024,39390.0,4,Hybrid,10.0,automatic,EX,SUV,4,Steel Gray,unknown,Front-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,38546.0,4,Gasoline,73.0,automatic,GT Plus AWD,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,73.0
+Kia,Seltos,2024,28630.0,4,Gasoline,15.0,cvt,S,SUV,4,Snow White Pearl,unknown,All-wheel Drive,brand new,0,1,15.0
+RAM,2500,2024,61865.0,8,Gasoline,0.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,26860.0,4,Gasoline,3.0,automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive,brand new,0,1,3.0
+Jeep,Compass,2024,29826.0,4,Gasoline,6.0,automatic,Latitude Lux,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Dodge,Hornet,2024,42597.0,4,Hybrid,5.0,automatic,R/T,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Kia,Niro,2024,37135.0,4,Hybrid,399.0,automatic,SX Touring,SUV,4,Runway Red,Medium Gray,Front-wheel Drive,test driven,0,1,399.0
+Dodge,Hornet,2024,52180.0,4,Hybrid,10.0,automatic,R/T Plus,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,30900.0,4,Gasoline,8.0,automatic,GT,SUV,4,8 BALL,Black,All-wheel Drive,brand new,0,1,8.0
+Jeep,Grand Cherokee 4xe,2024,61506.0,4,Gasoline,3.0,automatic,Anniversary Edition,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,3.0
+Buick,Envision,2023,37135.0,4,Gasoline,6.0,automatic,Preferred,SUV,4,White Frost Tri-Coat,Ebony,All-wheel Drive,brand new,0,2,3.0
+Ford,Escape,2024,33590.0,4,Hybrid,0.0,cvt,ST-Line,SUV,4,Agate Black,Ebony W/Red Stitching,Front-wheel Drive,brand new,0,1,0.0
+Ford,Escape,2024,41765.0,4,Hybrid,0.0,cvt,S,SUV,4,Star White Metallic Tri-Coat,Ebony,Front-wheel Drive,brand new,0,1,0.0
+Jeep,Grand Cherokee L,2024,50377.0,6,Gasoline,7.0,automatic,Limited,SUV,4,Bright White Clearcoat,unknown,Four-wheel Drive,brand new,0,1,7.0
+Chevrolet,Silverado 1500,2024,65416.0,8,Gasoline,5.0,automatic,LT Trail Boss,Pickup Truck,4,Slate Gray Metallic,Jet Black,Four-wheel Drive,brand new,0,1,5.0
+Hyundai,Santa Cruz,2024,43299.0,4,Gasoline,1.0,automatic,2.5T Limited,Pickup Truck,4,Phantom Black,Dark Gray,All-wheel Drive,brand new,0,1,1.0
+Dodge,Durango,2023,46835.0,8,Gasoline,5.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,2.5
+Jeep,Grand Cherokee,2024,47744.0,6,Gasoline,12.0,automatic,Limited,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,12.0
+Jeep,Grand Cherokee L,2024,53455.0,6,Gasoline,0.0,automatic,Limited,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,0.0
+Ford,Transit-250,2024,52853.0,6,Gasoline,0.0,automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive,brand new,0,1,0.0
+Ford,Bronco,2024,69035.0,6,Gasoline,9.0,automatic,Wildtrak,SUV,4,Azure Gray Metallic,Medium Sandstone,Four-wheel Drive,brand new,0,1,9.0
+Kia,Niro,2024,31860.0,4,Gasoline,17.0,automatic,EX,SUV,4,Snow White Pearl,Medium Gray,Front-wheel Drive,brand new,0,1,17.0
+Subaru,Outback,2024,44354.0,4,Gasoline,8.0,cvt,Wilderness,SUV,4,Autumn Green,Gray,All-wheel Drive,brand new,0,1,8.0
+Hyundai,Elantra HEV,2024,27080.0,4,Hybrid,14.0,automatic,Blue,Sedan,4,Serenity White,Medium Gray,Front-wheel Drive,brand new,0,1,14.0
+Acura,MDX,2024,56800.0,6,Gasoline,5.0,automatic,Technology,SUV,4,Black,unknown,Front-wheel Drive,brand new,0,1,5.0
+Ford,Mustang Mach-E,2024,49770.0,5,Electric,10.0,single-speed (EV),Premium,SUV,4,Blue,unknown,All-wheel Drive,brand new,0,1,10.0
+Ford,Mustang Mach-E,2023,46775.0,5,Electric,9.0,single-speed (EV),GT,SUV,4,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,brand new,0,2,4.5
+RAM,3500,2024,64214.0,6,Diesel,6.0,automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Bright White Clearcoat,Black Interior Color,Four-wheel Drive,brand new,0,1,6.0
+RAM,3500,2024,82523.0,6,Diesel,8.0,automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Mercedes-Benz,EQS 450,2024,110262.7,5,Electric,1.0,automatic,Base 4MATIC,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive,brand new,0,1,1.0
+Chevrolet,Silverado 1500,2024,49496.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Chevrolet,Silverado 1500,2024,43135.0,4,Gasoline,9.0,automatic,LT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive,brand new,0,1,9.0
+Jeep,Compass,2024,28867.0,4,Gasoline,8.0,automatic,Latitude,SUV,4,Silver Zynith Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Kia,Sportage,2024,35490.0,4,Gasoline,10.0,automatic,X-Line,SUV,4,Gravity Gray,Black,All-wheel Drive,brand new,0,1,10.0
+Honda,Prologue,2024,55800.0,5,Gasoline,8.0,single-speed (EV),TOURING,SUV,4,Pearl,Black,All-wheel Drive,brand new,0,1,8.0
+Honda,Prologue,2024,55800.0,5,Gasoline,8.0,single-speed (EV),TOURING,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,8.0
+Hyundai,Tucson Hybrid,2024,33109.0,4,Hybrid,15.0,automatic,Blue,SUV,4,Deep Sea,Gray,All-wheel Drive,brand new,0,1,15.0
+Mazda,CX-90 PHEV,2024,54949.0,4,Hybrid,8.0,automatic,Premium,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,8.0
+Hyundai,Tucson Hybrid,2024,39832.0,4,Hybrid,25.0,automatic,Limited,SUV,4,Black Pearl,Gray,All-wheel Drive,brand new,0,1,25.0
+Hyundai,IONIQ 5,2024,51765.0,5,Electric,7.0,single-speed (EV),Limited,SUV,4,Teal,Dark Green,All-wheel Drive,brand new,0,1,7.0
+Ford,Mustang Mach-E,2024,45780.0,5,Electric,10.0,single-speed (EV),Select,SUV,4,Vapor Blue Metallic,Black Onyx,All-wheel Drive,brand new,0,1,10.0
+RAM,2500,2024,46670.0,8,Gasoline,5.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Ford,Expedition,2024,88135.0,6,Gasoline,6.0,automatic,Platinum,SUV,4,Black,Black Onyx,Four-wheel Drive,brand new,0,1,6.0
+Hyundai,IONIQ 5,2024,45289.0,5,Electric,5.0,single-speed (EV),SEL,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Gladiator,2023,54210.0,6,Gasoline,0.0,automatic,Rubicon,Pickup Truck,4,High Velocity Clearcoat,Black,Four-wheel Drive,brand new,0,2,0.0
+Jeep,Grand Cherokee,2024,43585.0,6,Gasoline,5.0,automatic,Altitude,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Chrysler,Pacifica,2024,46163.0,6,Gasoline,8.0,automatic,Touring-L,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,8.0
+Jeep,Wrangler 4xe,2024,49550.0,4,Hybrid,5.0,automatic,Sport,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Volkswagen,Jetta,2024,22260.0,4,Gasoline,28.0,automatic,1.5T S,Sedan,4,Pyrite Silver Metallic,Titan Black,Front-wheel Drive,brand new,0,1,28.0
+Jeep,Grand Cherokee,2024,47744.0,6,Gasoline,9.0,automatic,Limited,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,9.0
+Jeep,Grand Cherokee 4xe,2024,54899.0,4,Hybrid,12.0,automatic,Base,SUV,4,Baltic Gray,Global Black,Four-wheel Drive,brand new,0,1,12.0
+RAM,3500,2024,84860.0,6,Diesel,6.0,automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,6.0
+RAM,2500,2024,71846.0,6,Diesel,5.0,automatic,Tradesman,Pickup Truck,4,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,46490.0,4,Gasoline,21.0,automatic,R/T Plus EAWD,SUV,4,Q Ball,Black,All-wheel Drive,brand new,0,1,21.0
+Ford,Mustang Mach-E,2024,51785.0,5,Electric,12.0,single-speed (EV),Premium,SUV,4,Star White,Black,All-wheel Drive,brand new,0,1,12.0
+Chevrolet,Silverado 1500,2024,49180.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Hyundai,IONIQ 6,2024,50945.0,5,Electric,1.0,automatic,SEL,Sedan,4,White,Black,All-wheel Drive,brand new,0,1,1.0
+Volkswagen,Taos,2024,35683.0,4,Gasoline,5.0,automatic,1.5T SEL,SUV,4,Blue,Brown/Blk,All-wheel Drive,brand new,0,1,5.0
+Ford,Expedition,2024,84190.0,6,Gasoline,6.0,automatic,Limited,SUV,4,White,Black Onyx,Four-wheel Drive,brand new,0,1,6.0
+Hyundai,Sonata Hybrid,2024,38870.0,4,Hybrid,5.0,automatic,Limited,Sedan,4,Carbon Blue,Black,Front-wheel Drive,brand new,0,1,5.0
+RAM,3500,2023,71999.0,6,Diesel,252.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,test driven,0,2,126.0
+Jeep,Grand Cherokee,2024,47080.0,6,Gasoline,6.0,automatic,Laredo,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Wrangler 4xe,2024,54226.0,4,Gasoline,2.0,automatic,Rubicon X,SUV,4,Black Clearcoat,Black,Four-wheel Drive,brand new,0,1,2.0
+Jeep,Compass,2024,33255.0,4,Gasoline,10.0,automatic,Latitude,SUV,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive,brand new,0,1,10.0
+Hyundai,IONIQ 5,2024,45373.0,5,Electric,3.0,single-speed (EV),SEL,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,3.0
+Jeep,Wrangler,2024,48612.0,6,Gasoline,10.0,automatic,Sport S,SUV,4,Black Clearcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+BMW,X7,2025,90945.0,6,Gasoline,4.0,automatic,xDrive40i,SUV,4,Aventurin Red Metallic,Black,All-wheel Drive,brand new,0,0,4.0
+Dodge,Durango,2023,47340.0,8,Gasoline,5.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,2.5
+Hyundai,Santa Cruz,2024,37100.0,4,Gasoline,1.0,automatic,2.5L SEL,Pickup Truck,4,Phantom Black,Gray,All-wheel Drive,brand new,0,1,1.0
+Mazda,CX-90 PHEV,2024,59205.0,4,Hybrid,3.0,automatic,Premium Plus,SUV,4,Jet Black Mica,Black,All-wheel Drive,brand new,0,1,3.0
+Ford,Bronco Sport,2024,31390.0,3,Gasoline,13.0,automatic,Big Bend,SUV,4,Carbonized Gray Metallic,Ebony,Four-wheel Drive,brand new,0,1,13.0
+Hyundai,Palisade,2024,46905.0,6,Gasoline,25.0,automatic,SEL,SUV,4,Steel / Graphite,Gray / Black,All-wheel Drive,brand new,0,1,25.0
+Hyundai,Santa Cruz,2024,36499.0,4,Gasoline,10.0,automatic,2.5T XRT,Pickup Truck,4,Phantom Black,Black,All-wheel Drive,brand new,0,1,10.0
+BMW,i4 Gran Coupe,2024,79300.0,5,Electric,5.0,single-speed (EV),M50,Hatchback,4,Blue,Oyster,All-wheel Drive,brand new,0,1,5.0
+RAM,2500,2024,74990.0,6,Diesel,15.0,automatic,Power Wagon,Pickup Truck,4,Olive Green Pearlcoat,Black,Four-wheel Drive,brand new,0,1,15.0
+Honda,CR-V Hybrid,2024,40355.0,4,Hybrid,68.0,cvt,Sport-L,SUV,4,Platinum White Pearl,Black,All-wheel Drive,brand new,0,1,68.0
+Jeep,Grand Cherokee,2023,43000.0,6,Gasoline,16.0,automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,2,8.0
+Hyundai,Sonata Hybrid,2024,38870.0,4,Hybrid,9.0,automatic,Limited,Sedan,4,Red,Black,Front-wheel Drive,brand new,0,1,9.0
+BMW,740,2024,103045.0,6,Gasoline,19.0,automatic,i,Sedan,4,Black Sapphire Metallic,Black,Rear-wheel Drive,brand new,0,1,19.0
+Volkswagen,Taos,2024,28997.0,4,Gasoline,3.0,automatic,1.5T SE,SUV,4,Blue Dusk,Black,All-wheel Drive,brand new,0,1,3.0
+Volkswagen,Taos,2024,29066.0,4,Gasoline,5.0,automatic,1.5T SE,SUV,4,Pure White,Black,Front-wheel Drive,brand new,0,1,5.0
+GMC,Terrain,2024,33092.0,4,Gasoline,0.0,automatic,SLE,SUV,4,Volcanic Red,Jet Black,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Palisade,2024,47100.0,6,Gasoline,26.0,automatic,SEL,SUV,4,Hyper White,Black,All-wheel Drive,brand new,0,1,26.0
+Volkswagen,Taos,2024,32406.0,4,Gasoline,11.0,automatic,1.5T SE,SUV,4,Deep Black Pearl,Black,Front-wheel Drive,brand new,0,1,11.0
+Ford,Explorer,2024,40145.0,4,Gasoline,9.0,automatic,XLT,SUV,4,Carbonized Gray Metallic,Ebony,Rear-wheel Drive,brand new,0,1,9.0
+Nissan,Kicks,2024,24600.0,4,Gasoline,15.0,cvt,SV,SUV,4,Aspen White Tricoat/Super Black,Charcoal,Front-wheel Drive,brand new,0,1,15.0
+Jeep,Grand Cherokee 4xe,2024,69201.0,4,Hybrid,11.0,automatic,Summit,SUV,4,Velvet Red Pearlcoat,Tupelo,Four-wheel Drive,brand new,0,1,11.0
+Nissan,Versa,2024,21433.68,4,Gasoline,8.0,cvt,S,Sedan,4,Electric Blue Metallic,Charcoal,Front-wheel Drive,brand new,0,1,8.0
+Ford,Escape,2024,40630.0,4,Gasoline,7.0,automatic,ST-Line Elite,SUV,4,Iconic Silver Metallic,Red,All-wheel Drive,brand new,0,1,7.0
+Jeep,Grand Cherokee,2024,49075.0,6,Gasoline,1.0,automatic,Laredo,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,1.0
+Volkswagen,Jetta,2024,23160.0,4,Gasoline,7.0,automatic,1.4T S,Sedan,4,Deep Black Pearl,Titan Black,Front-wheel Drive,brand new,0,1,7.0
+Dodge,Durango,2023,46835.0,8,Gasoline,31.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,15.5
+Ford,Mustang Mach-E,2024,52180.0,5,Electric,25.0,single-speed (EV),Premium,SUV,4,Glacier Gray,Black,All-wheel Drive,brand new,0,1,25.0
+Hyundai,IONIQ 5,2024,59255.0,5,Electric,10.0,single-speed (EV),Limited,SUV,4,Blue,Gray,All-wheel Drive,brand new,0,1,10.0
+Ford,Transit-250,2024,51803.0,6,Gasoline,1.0,automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Fron,Rear-wheel Drive,brand new,0,1,1.0
+Jeep,Grand Cherokee 4xe,2024,67784.0,4,Hybrid,35.0,automatic,Trailhawk,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,35.0
+Hyundai,Santa Cruz,2024,40449.0,4,Gasoline,1.0,automatic,2.5T NIGHT,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive,brand new,0,1,1.0
+Chevrolet,Equinox,2024,30188.0,4,Gasoline,3.0,automatic,1LT,SUV,4,Sterling Gray Metallic,Medium Ash Gray,Front-wheel Drive,brand new,0,1,3.0
+Mazda,CX-90 PHEV,2024,59420.0,4,Gasoline,5.0,automatic,Base,SUV,4,Artisan Red Premium,Black,All-wheel Drive,brand new,0,1,5.0
+Mazda,CX-90 PHEV,2024,60080.0,4,Gasoline,5.0,automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive,brand new,0,1,5.0
+Buick,Envision,2023,42785.0,4,Gasoline,13.0,automatic,Essence,SUV,4,Ebony Twilight Metallic,Ebony,All-wheel Drive,brand new,0,2,6.5
+Audi,Q8 e-tron,2024,84530.0,5,Electric,5.0,automatic,Premium,SUV,4,Glacier White Metallic,Okapi Brown,All-wheel Drive,brand new,0,1,5.0
+Dodge,Durango,2023,47280.0,8,Gasoline,13.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,6.5
+Jeep,Compass,2024,30525.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,0.0
+Honda,Passport,2024,44850.0,6,Gasoline,3.0,automatic,TrailSport,SUV,4,Sky,Black,All-wheel Drive,brand new,0,1,3.0
+Cadillac,LYRIQ,2024,83665.0,5,Electric,728.0,automatic,Sport w/1SF,SUV,4,Crystal White Tricoat,Noir w/Santorini Blue Accents,Rear-wheel Drive,slightly used,0,1,728.0
+Nissan,Titan,2024,47105.0,8,Gasoline,5.0,automatic,SV,Pickup Truck,4,Glacier White,Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Compass,2024,38736.0,4,Gasoline,12.0,automatic,Limited,SUV,4,Laser Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Jeep,Compass,2024,28265.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,7.0
+Jeep,Wrangler 4xe,2024,58230.0,4,Hybrid,17.0,automatic,Sahara,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive,brand new,0,1,17.0
+Jeep,Wrangler 4xe,2024,67190.0,4,Hybrid,12.0,automatic,Rubicon,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Hyundai,IONIQ 5,2024,45738.0,5,Electric,5.0,single-speed (EV),SEL,SUV,4,Atlas,Gray,All-wheel Drive,brand new,0,1,5.0
+Ford,Escape,2024,30278.0,3,Gasoline,0.0,automatic,Active,SUV,4,Iconic Silver,Ebony,Front-wheel Drive,brand new,0,1,0.0
+Ford,Escape,2024,34572.0,3,Gasoline,10.0,automatic,ST-Line,SUV,4,Star White,Ebony,All-wheel Drive,brand new,0,1,10.0
+Jeep,Wrangler 4xe,2024,66960.0,4,Hybrid,5.0,automatic,Rubicon,SUV,4,Black Clearcoat,Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Compass,2024,31535.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,7.0
+Chevrolet,Equinox,2024,30955.0,4,Gasoline,3.0,automatic,LS,SUV,4,Summit White,Medium Ash Gray,All-wheel Drive,brand new,0,1,3.0
+Dodge,Hornet,2024,34698.0,4,Gasoline,10.0,automatic,GT,SUV,4,Gold,Black,All-wheel Drive,brand new,0,1,10.0
+Ford,Escape,2024,32138.0,3,Gasoline,10.0,automatic,ST-Line,SUV,4,Iconic Silver Metallic,Ebony,All-wheel Drive,brand new,0,1,10.0
+Ford,Transit-250,2024,61248.0,6,Gasoline,0.0,automatic,Base,Cargo Van,3,Oxford White,Gray,Rear-wheel Drive,brand new,0,1,0.0
+Ford,Mustang Mach-E,2024,46920.0,5,Electric,10.0,single-speed (EV),Premium,SUV,4,Green,unknown,All-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee,2024,40925.0,6,Gasoline,0.0,automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,0.0
+Chevrolet,Silverado 1500,2024,76475.0,8,Gasoline,2.0,automatic,ZR2,Pickup Truck,4,Summit White,Gray,Four-wheel Drive,brand new,0,1,2.0
+Ford,Mustang Mach-E,2023,45525.0,5,Electric,10.0,single-speed (EV),Premium,SUV,4,Gray,Gray,All-wheel Drive,brand new,0,2,5.0
+Jeep,Grand Cherokee,2024,65360.0,6,Gasoline,0.0,automatic,Summit,SUV,4,Diamond Black Crystal Pearlcoat,Tupelo/Black,Four-wheel Drive,brand new,0,1,0.0
+Chevrolet,Silverado 1500,2024,47650.0,8,Gasoline,5.0,automatic,Custom Trail Boss,Pickup Truck,4,Summit White,Black,Four-wheel Drive,brand new,0,1,5.0
+Honda,Odyssey,2024,41705.0,6,Gasoline,4.0,automatic,EX-L,Passenger Van,4,Lunar Silver Metallic,Gray,Front-wheel Drive,brand new,0,1,4.0
+Hyundai,IONIQ 5,2024,54495.0,5,Electric,10.0,single-speed (EV),Disney100 Platinum Edition,SUV,4,Gold,Gray,All-wheel Drive,brand new,0,1,10.0
+Hyundai,Elantra HEV,2024,30335.0,4,Hybrid,0.0,automatic,Limited,Sedan,4,Gray Pearl,Melange,Front-wheel Drive,brand new,0,1,0.0
+Hyundai,Tucson Hybrid,2024,33695.0,4,Hybrid,11.0,automatic,Blue,SUV,4,White Pearl,Black,All-wheel Drive,brand new,0,1,11.0
+Volkswagen,Jetta,2024,29374.0,4,Gasoline,28.0,automatic,1.5T SEL,Sedan,4,Opal White Pearl Effect,Volcano Brown,Front-wheel Drive,brand new,0,1,28.0
+Jeep,Wrangler 4xe,2024,51350.0,4,Hybrid,8.0,automatic,Sport,SUV,4,Anvil Clearcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Hyundai,Tucson Hybrid,2024,35744.0,4,Hybrid,15.0,automatic,SEL Convenience,SUV,4,Black Pearl,Gray,All-wheel Drive,brand new,0,1,15.0
+Jeep,Wrangler 4xe,2023,63715.0,4,Hybrid,8.0,automatic,Sahara,SUV,4,Silver Zynith Clearcoat,Black,Four-wheel Drive,brand new,0,2,4.0
+Hyundai,Elantra HEV,2024,25975.0,4,Hybrid,15.0,dual clutch,Blue,Sedan,4,Gray Pearl,Black,Front-wheel Drive,brand new,0,1,15.0
+Hyundai,IONIQ 6,2023,39997.0,5,Electric,27.0,single-speed (EV),SEL,Sedan,4,Onyx Black,Black,All-wheel Drive,brand new,0,2,13.5
+Toyota,Tundra Hybrid,2024,68256.0,6,Hybrid,10.0,automatic,Limited,Pickup Truck,4,Celestial Silver Metallic,Black SofTex-trimmed [softex],Four-wheel Drive,brand new,0,1,10.0
+RAM,ProMaster 3500,2024,67749.0,6,Gasoline,181.0,automatic,Base,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,test driven,0,1,181.0
+Jeep,Grand Cherokee L,2024,49735.0,6,Gasoline,0.0,automatic,Limited,SUV,4,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Hornet,2024,49885.0,4,Hybrid,2.0,automatic,R/T Plus,SUV,4,Gold,Black,All-wheel Drive,brand new,0,1,2.0
+Toyota,Corolla Cross,2024,30499.0,4,Gasoline,1.0,cvt,LE,SUV,4,CELESTITE,Ash,All-wheel Drive,brand new,0,1,1.0
+Kia,EV6,2024,41991.0,5,Electric,14.0,automatic,Wind,SUV,4,Glacier,Black,All-wheel Drive,brand new,0,1,14.0
+Ford,Explorer,2024,40145.0,4,Gasoline,9.0,automatic,XLT,SUV,4,Iconic Silver Metallic,Ebony,Rear-wheel Drive,brand new,0,1,9.0
+Mazda,CX-90 PHEV,2024,54939.0,4,Hybrid,3.0,automatic,Premium,SUV,4,Rhodium,Greige,All-wheel Drive,brand new,0,1,3.0
+Jeep,Wagoneer L,2024,83845.0,6,Gasoline,8.0,automatic,Series II,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Mercedes-Benz,Sprinter 2500,2023,58665.0,4,Gasoline,0.0,automatic,High Roof,Cargo Van,3,unknown,unknown,Rear-wheel Drive,brand new,0,2,0.0
+Dodge,Durango,2023,46835.0,8,Gasoline,23.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,11.5
+Chevrolet,Equinox EV,2024,47495.0,5,Gasoline,0.0,automatic,RS,SUV,4,Sterling Gray Metallic,Black,Front-wheel Drive,brand new,0,1,0.0
+Jeep,Grand Wagoneer,2024,110262.7,6,Gasoline,0.0,automatic,Series III,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,0.0
+Mercedes-Benz,Sprinter 2500,2024,65129.0,4,Diesel,0.0,automatic,High Roof,Pickup Truck,3,unknown,unknown,Rear-wheel Drive,brand new,0,1,0.0
+Ford,Mustang Mach-E,2024,49785.0,5,Electric,5.0,single-speed (EV),Select,SUV,4,Glacier Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Honda,CR-V Hybrid,2025,42150.0,4,Gasoline,1.0,cvt,Sport Touring,SUV,4,Canyon,Black,All-wheel Drive,brand new,0,0,1.0
+Cadillac,XT5,2024,47225.0,4,Gasoline,5.0,automatic,Luxury,SUV,4,Stellar Black Metallic,Jet Black,All-wheel Drive,brand new,0,1,5.0
+Hyundai,Santa Cruz,2024,31610.0,4,Gasoline,3.0,automatic,2.5L SEL,Pickup Truck,4,Sage Gray,Black,All-wheel Drive,brand new,0,1,3.0
+Toyota,Tundra Hybrid,2024,72977.0,6,Hybrid,7.0,automatic,1794 Edition,Pickup Truck,4,Smoked Mesquite,Tan,Four-wheel Drive,brand new,0,1,7.0
+Dodge,Hornet,2024,36734.0,4,Gasoline,14.0,automatic,GT AWD,SUV,4,Blu Bayou,Black,All-wheel Drive,brand new,0,1,14.0
+RAM,3500,2024,61330.0,6,Diesel,6.0,automatic,Tradesman,Pickup Truck,2,Flame Red Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Hyundai,Kona,2024,32009.0,4,Gasoline,1.0,cvt,SEL,SUV,4,Atlas,Black,All-wheel Drive,brand new,0,1,1.0
+Chevrolet,Silverado 1500,2024,49229.0,8,Gasoline,17.0,automatic,LT,Pickup Truck,4,Black,Jet Black,Four-wheel Drive,brand new,0,1,17.0
+INFINITI,QX55,2023,54200.0,4,Gasoline,0.0,cvt,SENSORY,SUV,4,Graphite Shadow,Graphite,All-wheel Drive,brand new,0,2,0.0
+Jeep,Compass,2023,25999.0,4,Gasoline,14.0,automatic,Sport,SUV,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,2,7.0
+Mazda,CX-90 PHEV,2024,56995.0,4,Gasoline,30.0,automatic,Base,SUV,4,Rhodium White Premium,Black,All-wheel Drive,brand new,0,1,30.0
+Chevrolet,Equinox,2024,34472.0,4,Gasoline,6.0,automatic,1LT,SUV,4,Radiant Red,Jet Black,All-wheel Drive,brand new,0,1,6.0
+Nissan,Kicks,2024,25410.0,4,Gasoline,12.0,cvt,SR,SUV,4,Boulder Gray Metallic,Charcoal,Front-wheel Drive,brand new,0,1,12.0
+Dodge,Hornet,2024,49885.0,4,Hybrid,8.0,automatic,R/T Plus,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,8.0
+Toyota,Corolla,2024,22623.0,4,Gasoline,8.0,cvt,LE,Sedan,4,Silver,Black,Front-wheel Drive,brand new,0,1,8.0
+Hyundai,IONIQ 5,2024,45830.0,5,Electric,0.0,automatic,SEL,SUV,4,Atlas,Gray,All-wheel Drive,brand new,0,1,0.0
+Volkswagen,Jetta,2024,29895.0,4,Gasoline,10.0,automatic,1.4T SEL,Sedan,4,Deep Black Pearl,Titan Black,Front-wheel Drive,brand new,0,1,10.0
+Hyundai,IONIQ 5,2024,44713.0,5,Electric,13.0,single-speed (EV),SEL,SUV,4,Atlas,Gray,All-wheel Drive,brand new,0,1,13.0
+RAM,ProMaster 3500,2024,68095.0,6,Gasoline,186.0,automatic,Base,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,test driven,0,1,186.0
+Volkswagen,Jetta,2024,24348.0,4,Gasoline,7.0,automatic,1.4T S,Sedan,4,Pure White,Titan Black,Front-wheel Drive,brand new,0,1,7.0
+RAM,3500,2024,65260.0,6,Diesel,15.0,automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,15.0
+GMC,Terrain,2024,40980.0,4,Gasoline,0.0,automatic,Denali,SUV,4,White Frost Tri-Coat,Light Platinum,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Tucson Hybrid,2024,37275.0,4,Hybrid,5.0,automatic,SEL Convenience,SUV,4,Amazon Gray,Gray,All-wheel Drive,brand new,0,1,5.0
+RAM,3500,2024,72294.0,6,Diesel,33.0,automatic,Laramie,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,33.0
+Mazda,CX-90 PHEV,2024,51625.0,4,Gasoline,5.0,automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive,brand new,0,1,5.0
+Hyundai,Kona,2024,30829.0,4,Gasoline,15.0,automatic,Limited,SUV,4,Abyss Black Pearl,Black,Front-wheel Drive,brand new,0,1,15.0
+Dodge,Hornet,2024,44826.0,4,Hybrid,5.0,automatic,R/T Plus,SUV,4,HOT TAMALE,Black,All-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,38122.0,4,Gasoline,18.0,automatic,GT,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,18.0
+Jeep,Grand Cherokee L,2024,47451.0,6,Gasoline,3.0,automatic,Altitude,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,3.0
+Jeep,Wrangler 4xe,2024,58840.0,4,Hybrid,4.0,automatic,Sahara,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,4.0
+Dodge,Hornet,2024,32837.0,4,Gasoline,10.0,automatic,GT AWD,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,10.0
+Ford,Bronco Sport,2024,31390.0,3,Gasoline,9.0,automatic,Big Bend,SUV,4,Eruption Green Metallic,Bk,Four-wheel Drive,brand new,0,1,9.0
+Chrysler,Pacifica,2024,54403.0,6,Gasoline,14.0,automatic,Touring-L,Passenger Van,4,Diamond Black,Black,All-wheel Drive,brand new,0,1,14.0
+Toyota,Tundra Hybrid,2024,71146.0,6,Hybrid,10.0,automatic,Platinum,Pickup Truck,4,Supersonic Red,Black,Rear-wheel Drive,brand new,0,1,10.0
+Jeep,Wagoneer,2024,84935.0,6,Gasoline,1.0,automatic,Series II,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,1.0
+Ford,F-150,2023,52495.0,6,Gasoline,26.0,automatic,XLT,Pickup Truck,4,Oxford White,Black,Four-wheel Drive,brand new,0,2,13.0
+RAM,2500,2024,61481.0,6,Diesel,15.0,automatic,Tradesman 4x4 Crew Cab 8 Box,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,brand new,0,1,15.0
+Mazda,CX-90 PHEV,2024,51700.0,4,Gasoline,5.0,automatic,Base,SUV,4,Deep Crystal Blue Mica,Black,All-wheel Drive,brand new,0,1,5.0
+Chevrolet,Silverado 1500,2024,42947.0,4,Gasoline,5.0,automatic,Custom,Pickup Truck,4,Red,Black,Rear-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,34329.0,4,Gasoline,6.0,automatic,GT AWD,SUV,4,Q Ball,Black,All-wheel Drive,brand new,0,1,6.0
+RAM,3500,2024,62154.0,8,Gasoline,197.0,automatic,Tradesman,Pickup Truck,2,Bright White Clearcoat,Diesel Gray / Black,Four-wheel Drive,test driven,0,1,197.0
+Audi,A3,2024,39375.0,4,Gasoline,76.0,automatic,Premium,Sedan,4,Florett Silver Metallic,Black,Front-wheel Drive,brand new,0,1,76.0
+Jeep,Wrangler 4xe,2024,65295.0,4,Hybrid,26.0,automatic,Rubicon,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,26.0
+Jeep,Wrangler 4xe,2024,64930.0,4,Hybrid,12.0,automatic,Rubicon,SUV,4,Black Clearcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Ford,Mustang Mach-E,2023,46540.0,5,Electric,6.0,single-speed (EV),Premium,SUV,4,Shadow Black,Black Onyx,All-wheel Drive,brand new,0,2,3.0
+Mazda,CX-90 PHEV,2024,54949.0,4,Hybrid,3.0,automatic,Premium,SUV,4,Machine,Black,All-wheel Drive,brand new,0,1,3.0
+Dodge,Hornet,2024,47142.0,4,Hybrid,0.0,automatic,R/T Plus,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Santa Cruz,2024,41955.0,4,Gasoline,1.0,automatic,2.5T XRT,Pickup Truck,4,Atlas,Black,All-wheel Drive,brand new,0,1,1.0
+Ford,Escape,2024,36860.0,3,Gasoline,8.0,automatic,Active,SUV,4,Vapor Blue Metallic,Ebony,All-wheel Drive,brand new,0,1,8.0
+RAM,3500,2024,76300.0,6,Diesel,6.0,automatic,Big Horn,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,6.0
+RAM,ProMaster 3500,2024,68095.0,6,Gasoline,188.0,automatic,Base,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,test driven,0,1,188.0
+Ford,F-150,2024,45605.0,6,Gasoline,8.0,automatic,STX,Pickup Truck,4,Oxford White,Black,Four-wheel Drive,brand new,0,1,8.0
+Nissan,Kicks,2024,24305.0,4,Gasoline,15.0,cvt,S,SUV,4,Gun Metallic,Charcoal,Front-wheel Drive,brand new,0,1,15.0
+Ford,Explorer,2024,46870.0,4,Gasoline,2500.0,automatic,XLT,SUV,4,Star White,Sandstone,Rear-wheel Drive,early used,0,1,2500.0
+Hyundai,Kona,2024,33840.0,4,Gasoline,8.0,automatic,Limited,SUV,4,Orange Pearl,Black,All-wheel Drive,brand new,0,1,8.0
+Chevrolet,Silverado 1500,2024,50058.0,8,Gasoline,2.0,automatic,LT,Pickup Truck,4,Radiant Red,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Honda,CR-V Hybrid,2024,37505.0,4,Hybrid,0.0,cvt,Sport-L,SUV,4,Platinum White Pearl,unknown,Front-wheel Drive,brand new,0,1,0.0
+Hyundai,Sonata Hybrid,2024,33005.0,4,Hybrid,13.0,automatic,SEL,Sedan,4,White,Black,Front-wheel Drive,brand new,0,1,13.0
+Acura,MDX,2024,53700.0,6,Gasoline,5.0,automatic,Base,SUV,4,Silver,unknown,All-wheel Drive,brand new,0,1,5.0
+Mercedes-Benz,Sprinter 3500,2024,62295.0,4,Diesel,8.0,automatic,High Roof,Cargo Van,3,Iridium Silver,Black,Rear-wheel Drive,brand new,0,1,8.0
+GMC,Sierra 2500,2024,90220.0,8,Diesel,0.0,automatic,Denali,Pickup Truck,4,Onyx Black,Jet Black,Four-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,33696.0,4,Gasoline,6.0,automatic,Limited,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Grand Cherokee L,2024,54641.0,6,Gasoline,23.0,automatic,Limited,SUV,4,Diamond Black,Beige / Black,Rear-wheel Drive,brand new,0,1,23.0
+Cadillac,LYRIQ,2024,60115.0,5,Electric,1.0,single-speed (EV),Luxury,SUV,4,Emerald,Black,Rear-wheel Drive,brand new,0,1,1.0
+Hyundai,Tucson,2024,32750.0,4,Gasoline,3425.0,automatic,SEL,SUV,4,White Pearl,Gray,Front-wheel Drive,early used,0,1,3425.0
+Mazda,CX-90 PHEV,2024,50595.0,4,Hybrid,1.0,automatic,Preferred,SUV,4,Rhodium White Metallic,Black,All-wheel Drive,brand new,0,1,1.0
+Ford,Explorer,2025,53915.0,4,Gasoline,8.0,automatic,Platinum,SUV,4,Star White Metallic Tri-Coat,Mojave Dusk/Onyx,Rear-wheel Drive,brand new,0,0,8.0
+Jeep,Wagoneer,2024,77473.0,6,Gasoline,14.0,automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,14.0
+INFINITI,QX50,2024,49404.0,4,Gasoline,7.0,cvt,SPORT,SUV,4,Radiant White,Monaco Red,Front-wheel Drive,brand new,0,1,7.0
+Hyundai,Elantra HEV,2024,30870.0,4,Hybrid,9.0,automatic,Limited,Sedan,4,White,Black,Front-wheel Drive,brand new,0,1,9.0
+Buick,Enclave,2024,56872.0,6,Gasoline,0.0,automatic,Premium,SUV,4,Ebony Twilight Metallic,Dark Galvanized,All-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,34730.0,4,Gasoline,0.0,automatic,Latitude,SUV,4,Metallic,Black,Four-wheel Drive,brand new,0,1,0.0
+Chrysler,Pacifica,2024,55183.0,6,Gasoline,13.0,automatic,Limited,Passenger Van,4,Bright White Clearcoat,Black,All-wheel Drive,brand new,0,1,13.0
+Hyundai,Tucson,2024,32625.0,4,Gasoline,2077.0,automatic,SEL,SUV,4,White Pearl,Gray,Front-wheel Drive,early used,0,1,2077.0
+Nissan,Versa,2024,21433.68,4,Gasoline,6.0,cvt,S,Sedan,4,Cloud White,Charcoal,Front-wheel Drive,brand new,0,1,6.0
+Audi,A5 Sportback,2024,52405.0,4,Gasoline,10.0,automatic,S line Premium,Hatchback,4,Glacier White Metallic,Black,All-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,67159.0,6,Diesel,21.0,automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,21.0
+Ford,Edge,2024,40260.0,4,Gasoline,3.0,automatic,SE,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive,brand new,0,1,3.0
+Mercedes-Benz,GLS 450,2024,95230.0,6,Gasoline,8.0,automatic,4MATIC,SUV,4,Polar White,Macchiato Beige,All-wheel Drive,brand new,0,1,8.0
+Hyundai,Tucson Hybrid,2024,35835.0,4,Hybrid,10.0,automatic,SEL Convenience,SUV,4,Black Pearl,Black,All-wheel Drive,brand new,0,1,10.0
+Hyundai,Tucson Hybrid,2024,35775.0,4,Hybrid,10.0,automatic,SEL Convenience,SUV,4,Amazon Gray,Gray,All-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,72600.0,6,Diesel,6.0,automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Chevrolet,Silverado 1500,2024,47410.0,8,Gasoline,5.0,automatic,WT,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,5.0
+Kia,Niro,2024,30935.0,4,Hybrid,11.0,automatic,EX,SUV,4,Snow White Pearl,Charcoal,Front-wheel Drive,brand new,0,1,11.0
+Jeep,Compass,2024,27087.0,4,Gasoline,9.0,automatic,Sport,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,9.0
+RAM,3500,2024,78895.0,6,Diesel,7.0,automatic,Big Horn,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,7.0
+Ford,Edge,2024,44710.0,4,Gasoline,48.0,automatic,Titanium,SUV,4,Rapid Red Metallic Tinted Clearcoat,Medium Soft Ceramic,All-wheel Drive,brand new,0,1,48.0
+Nissan,Sentra,2024,21637.0,4,Gasoline,4.0,automatic,SV,Sedan,4,Gun Metallic,Charcoal,Front-wheel Drive,brand new,0,1,4.0
+Kia,Seltos,2024,28535.0,4,Gasoline,15.0,cvt,S,SUV,4,White,unknown,All-wheel Drive,brand new,0,1,15.0
+Jeep,Grand Cherokee L,2024,50923.0,6,Gasoline,4.0,automatic,Limited,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,4.0
+Nissan,Versa,2024,21889.0,4,Gasoline,6.0,cvt,1.6 SR,Sedan,4,Electric Blue Metallic,Gray,Front-wheel Drive,brand new,0,1,6.0
+Hyundai,Kona,2024,29182.0,4,Gasoline,0.0,cvt,SEL,SUV,4,Cyber Gray Metallic,Black,Front-wheel Drive,brand new,0,1,0.0
+Nissan,Kicks,2024,21433.68,4,Gasoline,6.0,cvt,SR,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive,brand new,0,1,6.0
+RAM,3500,2024,63518.0,6,Diesel,24.0,automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black Interior Color,Four-wheel Drive,brand new,0,1,24.0
+RAM,3500,2024,79934.0,6,Diesel,22.0,automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,22.0
+Dodge,Durango,2023,47340.0,8,Gasoline,22.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,11.0
+Jeep,Grand Cherokee L,2024,46243.0,6,Gasoline,175.0,automatic,Altitude,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,test driven,0,1,175.0
+Dodge,Hornet,2024,42876.0,4,Hybrid,147.0,automatic,R/T,SUV,4,8 BALL,Black,All-wheel Drive,test driven,0,1,147.0
+GMC,Sierra 3500,2024,102287.0,8,Diesel,4.0,automatic,Denali,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,4.0
+Jeep,Grand Cherokee L,2024,55020.0,6,Gasoline,5.0,automatic,Limited,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee,2024,40344.0,6,Gasoline,6.0,automatic,Laredo,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,6.0
+Hyundai,Kona,2024,33491.0,4,Gasoline,12.0,automatic,N Line,SUV,4,Abyss Black Pearl,Black,All-wheel Drive,brand new,0,1,12.0
+Hyundai,Tucson Hybrid,2024,40754.0,4,Hybrid,12.0,automatic,Limited,SUV,4,Black Pearl,Black,All-wheel Drive,brand new,0,1,12.0
+Mercedes-Benz,EQS 450,2024,110262.7,5,Electric,10.0,other,Base 4MATIC,Sedan,4,White,Black,All-wheel Drive,brand new,0,1,10.0
+Jaguar,I-PACE,2024,77053.0,5,Gasoline,8.0,automatic,EV400 R-Dynamic HSE,SUV,5,Santorini Black,Ebony,All-wheel Drive,brand new,0,1,8.0
+RAM,3500,2024,83640.0,6,Diesel,6.0,automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Red,Black,Four-wheel Drive,brand new,0,1,6.0
+Hyundai,IONIQ 5,2024,46246.0,5,Electric,7.0,single-speed (EV),SEL,SUV,4,Cyber Gray,Gray,All-wheel Drive,brand new,0,1,7.0
+Toyota,RAV4 Prime,2024,50209.0,4,Hybrid,0.0,cvt,XSE,SUV,4,Silver Sky Metallic,Black,All-wheel Drive,brand new,0,1,0.0
+RAM,2500,2024,69720.0,8,Gasoline,0.0,automatic,Big Horn,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,0.0
+Chevrolet,Silverado 1500,2024,88478.0,8,Gasoline,2.0,automatic,RST,Pickup Truck,4,Summit White,Jet Black,Four-wheel Drive,brand new,0,1,2.0
+Hyundai,Kona,2024,35389.0,4,Gasoline,1.0,automatic,Limited,SUV,4,Cyber Gray Metallic,Gray,All-wheel Drive,brand new,0,1,1.0
+Hyundai,Tucson Hybrid,2024,36600.0,4,Hybrid,12.0,automatic,N Line,SUV,4,Black Pearl,Black w/Red Accents,All-wheel Drive,brand new,0,1,12.0
+Jeep,Grand Wagoneer,2023,110150.0,6,Gasoline,650.0,automatic,Series II,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,slightly used,0,2,325.0
+Jeep,Grand Cherokee L,2024,67105.0,6,Gasoline,3.0,automatic,Overland,SUV,4,Baltic Gray Metallic Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,3.0
+Hyundai,Tucson Hybrid,2024,36600.0,4,Hybrid,10.0,automatic,N Line,SUV,4,Titan Gray,Black w/Red Accents,All-wheel Drive,brand new,0,1,10.0
+BMW,i4 Gran Coupe,2024,72435.0,5,Electric,5.0,single-speed (EV),xDrive40,Hatchback,4,White,Tacora Red,All-wheel Drive,brand new,0,1,5.0
+Mazda,CX-90 PHEV,2024,50955.0,4,Hybrid,0.0,automatic,Preferred,SUV,4,Machine,Black,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Santa Cruz,2024,40434.0,4,Gasoline,1.0,automatic,2.5T NIGHT,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive,brand new,0,1,1.0
+Kia,Sportage,2024,30740.0,4,Gasoline,1.0,automatic,EX,SUV,4,Black,Black,Front-wheel Drive,brand new,0,1,1.0
+Mercedes-Benz,Sprinter 2500,2024,66902.0,4,Diesel,10.0,automatic,Crew 144 WB,Cargo Van,3,Gray,unknown,Rear-wheel Drive,brand new,0,1,10.0
+Hyundai,IONIQ 5,2024,59255.0,5,Electric,10.0,single-speed (EV),Limited,SUV,4,Black,Gray,All-wheel Drive,brand new,0,1,10.0
+Cadillac,LYRIQ,2024,75090.0,5,Electric,9.0,automatic,Sport w/1SJ,SUV,4,Celestial Metallic,Noir w/Santorini Blue Accents,Rear-wheel Drive,brand new,0,1,9.0
+Chevrolet,Silverado 1500,2024,54190.0,8,Gasoline,5.0,automatic,Custom Trail Boss,Pickup Truck,4,Dark Ash Metallic,Black,Four-wheel Drive,brand new,0,1,5.0
+GMC,Sierra 2500,2024,47763.0,8,Gasoline,0.0,automatic,Pro,Pickup Truck,2,Summit White,Jet Black,Rear-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,68600.0,6,Diesel,0.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black / Diesel Gray,Four-wheel Drive,brand new,0,1,0.0
+Hyundai,IONIQ 6,2023,53820.0,5,Electric,129.0,automatic,SE,Sedan,4,Gravity Gold Matte,Gray,All-wheel Drive,test driven,0,2,64.5
+Mercedes-Benz,GLE 450,2024,74290.0,6,Gasoline,6.0,automatic,4MATIC,SUV,4,Polar White,Black,All-wheel Drive,brand new,0,1,6.0
+Jeep,Compass,2024,33668.0,4,Gasoline,8.0,automatic,Latitude Lux,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,8.0
+Dodge,Durango,2023,47785.0,8,Gasoline,32.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,16.0
+Jeep,Wagoneer,2024,89595.0,6,Gasoline,1.0,automatic,Series III,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,1.0
+Ford,Mustang Mach-E,2024,55485.0,5,Electric,3.0,single-speed (EV),Premium,SUV,4,Star White,Gray,All-wheel Drive,brand new,0,1,3.0
+Dodge,Hornet,2024,43524.0,4,Gasoline,0.0,other,Hornet R/T Eawd,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,0.0
+Ford,Escape,2024,33071.0,3,Gasoline,4.0,automatic,Active,SUV,4,Oxford White,Space Gray,All-wheel Drive,brand new,0,1,4.0
+Hyundai,Santa Cruz,2024,30490.0,4,Gasoline,1.0,automatic,2.5L SE,Pickup Truck,4,Atlas,Gray,All-wheel Drive,brand new,0,1,1.0
+RAM,ProMaster 3500,2023,61006.0,6,Gasoline,5.0,automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,2,2.5
+Hyundai,Santa Cruz,2024,43684.0,4,Gasoline,1.0,automatic,2.5T Limited,Pickup Truck,4,Phantom Black,Black,All-wheel Drive,brand new,0,1,1.0
+Chrysler,Voyager,2024,38954.0,6,Gasoline,8.0,automatic,LX,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,8.0
+GMC,Sierra 1500,2024,59466.0,8,Gasoline,0.0,automatic,SLT,Pickup Truck,4,Volcanic Red,Jet Black,Four-wheel Drive,brand new,0,1,0.0
+Ford,Transit Connect,2023,38036.0,4,Gasoline,4.0,automatic,XLT,Cargo Van,4,Frozen White,Ebony,Front-wheel Drive,brand new,0,2,2.0
+Toyota,Tundra Hybrid,2024,60573.0,6,Hybrid,1.0,automatic,Limited,Pickup Truck,4,Magnetic Gray Metallic,Boulder,Four-wheel Drive,brand new,0,1,1.0
+RAM,2500,2024,59620.0,8,Gasoline,0.0,automatic,Tradesman,Pickup Truck,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,28860.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive,brand new,0,1,7.0
+Hyundai,IONIQ 5,2024,42295.0,5,Electric,0.0,automatic,SEL,SUV,4,Atlas,Gray,Rear-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,41230.0,4,Gasoline,9.0,automatic,Trailhawk,SUV,4,Sting-Gray Clearcoat,Ruby Red/Black,Four-wheel Drive,brand new,0,1,9.0
+Jeep,Gladiator,2023,54210.0,6,Gasoline,0.0,automatic,Rubicon,Pickup Truck,4,Sarge Green Clearcoat,Black,Four-wheel Drive,brand new,0,2,0.0
+Hyundai,IONIQ 5,2024,44565.0,5,Electric,7.0,single-speed (EV),SEL,SUV,4,Gold,Gray,All-wheel Drive,brand new,0,1,7.0
+Hyundai,Kona,2024,29111.0,4,Gasoline,11.0,cvt,SEL,SUV,4,Mirage,Gray,Front-wheel Drive,brand new,0,1,11.0
+GMC,Sierra 2500,2024,96860.0,8,Diesel,0.0,automatic,Denali Ultimate,Pickup Truck,4,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive,brand new,0,1,0.0
+Kia,Sportage,2024,34635.0,4,Gasoline,1.0,automatic,SX,SUV,4,White,Black,Front-wheel Drive,brand new,0,1,1.0
+Ford,Maverick,2024,41045.0,4,Gasoline,4.0,automatic,Lariat,Pickup Truck,4,Cactus Green / Gray,unknown,All-wheel Drive,brand new,0,1,4.0
+Jeep,Wagoneer,2024,79487.0,6,Gasoline,18.0,automatic,Series II,SUV,4,Riverrock Green,Black,Four-wheel Drive,brand new,0,1,18.0
+Volkswagen,Jetta,2024,23160.0,4,Gasoline,13.0,automatic,1.4T S,Sedan,4,Pure White,Titan Black,Front-wheel Drive,brand new,0,1,13.0
+Jeep,Wagoneer L,2024,74366.0,6,Gasoline,4.0,automatic,Base,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,4.0
+Hyundai,Tucson Hybrid,2024,40979.0,4,Hybrid,12.0,automatic,Limited,SUV,4,Amazon Gray,Black,All-wheel Drive,brand new,0,1,12.0
+Ford,Edge,2024,39025.0,4,Gasoline,5.0,automatic,SE,SUV,4,Carbonized Gray Metallic,Ebony,All-wheel Drive,brand new,0,1,5.0
+Hyundai,IONIQ 5,2024,45269.0,5,Electric,4.0,single-speed (EV),SEL,SUV,4,Teal,Gray,All-wheel Drive,brand new,0,1,4.0
+Jeep,Wagoneer L,2024,81160.0,6,Gasoline,4.0,automatic,Series II,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,4.0
+Nissan,Versa,2024,21433.68,4,Gasoline,0.0,cvt,1.6 SV,Sedan,4,Aspen White Tricoat,Graphite,Front-wheel Drive,brand new,0,1,0.0
+Jeep,Grand Cherokee 4xe,2024,63440.0,4,Hybrid,5.0,automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Hyundai,Kona,2024,33969.0,4,Gasoline,0.0,automatic,Limited,SUV,4,Red Metallic,Gray,Front-wheel Drive,brand new,0,1,0.0
+Ford,Edge,2024,38598.0,4,Gasoline,10.0,automatic,SEL,SUV,4,Carbonized Gray Metallic,Dune,All-wheel Drive,brand new,0,1,10.0
+GMC,Sierra 1500,2024,84405.0,8,Gasoline,12.0,automatic,Denali Ultimate,Pickup Truck,4,White Frost Tri-Coat,Alpine Umber,Four-wheel Drive,brand new,0,1,12.0
+Jeep,Grand Cherokee,2024,52810.0,6,Gasoline,5.0,automatic,Limited,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Chevrolet,Silverado 1500,2024,63145.0,6,Diesel,5.0,automatic,LT Trail Boss,Pickup Truck,4,Slate Gray Metallic,Black,Four-wheel Drive,brand new,0,1,5.0
+GMC,Terrain,2024,34940.0,4,Gasoline,0.0,automatic,AT4,SUV,4,Ebony Twilight Metallic,Jet Black,All-wheel Drive,brand new,0,1,0.0
+Dodge,Hornet,2024,37498.0,4,Gasoline,12.0,automatic,GT AWD,SUV,4,8 Ball,Black,All-wheel Drive,brand new,0,1,12.0
+RAM,3500,2024,58950.0,6,Diesel,12.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,12.0
+Volkswagen,Taos,2024,32751.0,4,Gasoline,51.0,automatic,1.5T SE,SUV,4,Deep Black Pearl,unknown,All-wheel Drive,brand new,0,1,51.0
+Dodge,Charger,2023,41890.0,6,Gasoline,18.0,automatic,SXT,Sedan,4,Silver,Black,All-wheel Drive,brand new,0,2,9.0
+Jeep,Compass,2024,38000.0,4,Gasoline,10.0,automatic,Trailhawk,SUV,4,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive,brand new,0,1,10.0
+Ford,Transit-350,2023,57000.0,6,Gasoline,5581.0,automatic,Base,Cargo Van,3,White,Gray,Rear-wheel Drive,light used demo,0,2,2790.5
+Jeep,Grand Cherokee L,2024,48201.0,6,Gasoline,10.0,automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Audi,Q5 e,2024,73360.0,4,Gasoline,12.0,automatic,55 Premium Plus,SUV,4,Glacier White,Black,All-wheel Drive,brand new,0,1,12.0
+Dodge,Durango,2023,47340.0,8,Gasoline,33.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,16.5
+RAM,3500,2024,64111.0,6,Diesel,6.0,automatic,Tradesman Crew Cab 4x4 8&#39; Box,Pickup Truck,4,Black,Black Interior Color,Four-wheel Drive,brand new,0,1,6.0
+Kia,Sorento,2024,33590.0,4,Gasoline,12.0,automatic,LX,SUV,4,Ebony Black,Black,Front-wheel Drive,brand new,0,1,12.0
+INFINITI,QX50,2024,46855.0,4,Gasoline,11.0,other,LUXE,SUV,4,Radiant White,Pebble Gray,Front-wheel Drive,brand new,0,1,11.0
+Jeep,Grand Cherokee L,2024,58779.0,6,Gasoline,10.0,automatic,Limited,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Subaru,Outback,2024,32490.0,4,Gasoline,8.0,cvt,Premium,SUV,4,Crystal White Pearl,Black,All-wheel Drive,brand new,0,1,8.0
+Ford,Edge,2024,45995.0,4,Gasoline,4723.0,automatic,Titanium,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive,early used,0,1,4723.0
+Jeep,Wagoneer,2024,73999.0,6,Gasoline,59.0,automatic,Series II,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,59.0
+Nissan,Pathfinder,2024,42155.0,6,Gasoline,6.0,automatic,SL 4WD,SUV,4,Deep Ocean Blue Pearl,Charcoal,Four-wheel Drive,brand new,0,1,6.0
+Ford,Transit-350,2023,54525.0,6,Gasoline,0.0,automatic,Limited,Cargo Van,3,Oxford White,Dark Palazzo Gray,Rear-wheel Drive,brand new,0,2,0.0
+Jeep,Grand Cherokee,2024,47030.0,6,Gasoline,5.0,automatic,Laredo,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee,2024,42425.0,6,Gasoline,5.0,automatic,Laredo,SUV,4,Silver Zynith,Black,Four-wheel Drive,brand new,0,1,5.0
+Dodge,Hornet,2024,42436.0,4,Gasoline,18.0,automatic,GT Plus,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,18.0
+Jeep,Grand Cherokee L,2024,56015.0,6,Gasoline,8.0,automatic,Limited,SUV,4,Baltic Gray Metallic Clearcoat,Wicker Beige/Global Black,Four-wheel Drive,brand new,0,1,8.0
+Acura,MDX,2024,52350.0,6,Gasoline,16.0,automatic,Base,SUV,4,Silver,unknown,All-wheel Drive,brand new,0,1,16.0
+Kia,EV6,2024,41991.0,5,Electric,13.0,automatic,Wind,SUV,4,Aurora Black Pearl,Black,All-wheel Drive,brand new,0,1,13.0
+Honda,HR-V,2024,25950.0,4,Gasoline,14.0,automatic,LX,SUV,4,Modern Steel Metallic,Nh-797m/Black,Front-wheel Drive,brand new,0,1,14.0
+Honda,Passport,2024,46350.0,6,Gasoline,0.0,automatic,TrailSport,SUV,4,Sky,Black,All-wheel Drive,brand new,0,1,0.0
+Honda,HR-V,2024,27450.0,4,Gasoline,5.0,automatic,LX,SUV,4,Deep Ocean Pearl,Nh-731p/Black,All-wheel Drive,brand new,0,1,5.0
+Kia,Sportage,2024,33375.0,4,Gasoline,148.0,automatic,EX,SUV,4,Ebony Black,Gray,All-wheel Drive,test driven,0,1,148.0
+Kia,Sportage,2024,39935.0,4,Gasoline,12.0,automatic,X-Pro Prestige,SUV,4,Glacier White Pearl,Black,All-wheel Drive,brand new,0,1,12.0
+Kia,Sportage,2024,35435.0,4,Gasoline,16.0,automatic,X-Line,SUV,4,Gravity Gray,unknown,All-wheel Drive,brand new,0,1,16.0
+Jeep,Grand Cherokee 4xe,2024,56119.0,4,Hybrid,20.0,automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,20.0
+Dodge,Hornet,2024,36810.0,4,Gasoline,15.0,automatic,GT,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,15.0
+Dodge,Hornet,2024,35585.0,4,Gasoline,0.0,automatic,GT AWD,SUV,4,Blue Steele,Black,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Santa Cruz,2024,40375.0,4,Gasoline,1.0,automatic,2.5T NIGHT,Pickup Truck,4,Hampton Gray,Black,All-wheel Drive,brand new,0,1,1.0
+Jeep,Compass,2024,35835.0,4,Gasoline,14.0,automatic,Latitude,SUV,4,White,unknown,Four-wheel Drive,brand new,0,1,14.0
+Hyundai,Tucson Hybrid,2024,41720.0,4,Hybrid,10.0,automatic,Limited,SUV,4,Amazon Gray,Gray,All-wheel Drive,brand new,0,1,10.0
+Hyundai,Tucson Hybrid,2024,41720.0,4,Hybrid,10.0,automatic,Limited,SUV,4,Deep Sea,Gray,All-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee 4xe,2024,62255.0,4,Hybrid,26.0,automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,26.0
+Audi,A5 Sportback,2024,57835.0,4,Gasoline,12.0,automatic,S line Premium Plus,Hatchback,4,Mythos Black Metallic,Okapi Brown,All-wheel Drive,brand new,0,1,12.0
+Jeep,Grand Wagoneer,2024,108537.0,6,Gasoline,4501.0,automatic,Series III,SUV,4,Bright White Clearcoat,Tupelo,Four-wheel Drive,early used,0,1,4501.0
+RAM,3500,2024,63609.0,6,Diesel,13.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,13.0
+Ford,Transit-250,2024,64025.0,6,Gasoline,0.0,automatic,Base,Cargo Van,3,Oxford White,Dk Palazzo Gry Clth Front,All-wheel Drive,brand new,0,1,0.0
+RAM,3500,2024,86420.0,6,Diesel,10.0,automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,10.0
+RAM,2500,2024,77525.0,8,Gasoline,0.0,automatic,Big Horn,Pickup Truck,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive,brand new,0,1,0.0
+Dodge,Hornet,2024,36195.0,4,Gasoline,5.0,automatic,GT,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,5.0
+Kia,Sportage,2024,35040.0,4,Gasoline,1.0,automatic,X-Line,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,1.0
+Jeep,Wagoneer,2024,64434.0,6,Gasoline,20.0,automatic,Base,SUV,4,Diamond Black Crystal Pearlcoat,Black,Four-wheel Drive,brand new,0,1,20.0
+RAM,3500,2024,67422.0,6,Diesel,27.0,automatic,Big Horn,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,27.0
+Cadillac,LYRIQ,2024,60310.0,5,Electric,4.0,single-speed (EV),Luxury,SUV,4,Crystal White Tri-Coat,Black,All-wheel Drive,brand new,0,1,4.0
+Jeep,Grand Cherokee 4xe,2024,61179.0,4,Hybrid,26.0,automatic,Base,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,26.0
+Jeep,Grand Cherokee 4xe,2023,67650.0,4,Hybrid,555.0,automatic,Trailhawk,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,slightly used,0,2,277.5
+Mercedes-Benz,Sprinter 2500,2024,61276.0,4,Diesel,10.0,automatic,144 WB Standard Roof Crew,Cargo Van,3,Arctic White,Black,Rear-wheel Drive,brand new,0,1,10.0
+BMW,X7,2024,94895.0,6,Gasoline,1946.0,automatic,xDrive40i,SUV,4,Tanzanite Blue II Metallic,Silverstone,All-wheel Drive,slightly used,0,1,1946.0
+Kia,Seltos,2024,31490.0,4,Gasoline,350.0,automatic,SX,SUV,4,Gravity Gray,unknown,All-wheel Drive,test driven,0,1,350.0
+Ford,Expedition,2024,70115.0,6,Gasoline,8.0,automatic,XLT,SUV,4,Black,Black Onyx,Four-wheel Drive,brand new,0,1,8.0
+Jeep,Wagoneer L,2024,77522.0,6,Gasoline,10.0,automatic,Series II,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee 4xe,2024,78655.0,4,Hybrid,8.0,automatic,Overland,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,8.0
+Nissan,Kicks,2024,24105.0,4,Gasoline,12.0,cvt,SR,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive,brand new,0,1,12.0
+Buick,Envista,2024,28000.0,3,Gasoline,5.0,automatic,Sport Touring,SUV,4,Sunrise Red Metallic,Ebony,Front-wheel Drive,brand new,0,1,5.0
+Kia,Sportage,2024,33390.0,4,Gasoline,10.0,automatic,SX,SUV,4,Ebony Black,Black,Front-wheel Drive,brand new,0,1,10.0
+Jeep,Grand Cherokee 4xe,2024,60884.0,4,Hybrid,2.0,automatic,Trailhawk,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,2.0
+Dodge,Hornet,2024,40880.0,4,Gasoline,24.0,automatic,GT AWD,SUV,4,Acapulco Gold,Black,All-wheel Drive,brand new,0,1,24.0
+Dodge,Hornet,2024,39555.0,4,Gasoline,1.0,automatic,GT,SUV,4,HOT TAMALE,unknown,All-wheel Drive,brand new,0,1,1.0
+Ford,Bronco Sport,2024,35077.0,3,Gasoline,14.0,automatic,Free Wheeling,SUV,4,Shadow Black,Ebony,Four-wheel Drive,brand new,0,1,14.0
+Cadillac,XT5,2024,47290.0,4,Gasoline,3.0,automatic,Luxury,SUV,4,Argent Silver Metallic,Jet Black,All-wheel Drive,brand new,0,1,3.0
+Jeep,Grand Cherokee,2024,44759.0,6,Gasoline,6.0,automatic,Limited,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,6.0
+Chevrolet,Trax,2025,26190.0,6,Gasoline,1.0,automatic,ACTIV,SUV,4,Summit White,Black,Front-wheel Drive,brand new,0,0,1.0
+Mercedes-Benz,GLA 250,2024,53710.0,4,Gasoline,8.0,dual clutch,Base 4MATIC,SUV,4,White,unknown,All-wheel Drive,brand new,0,1,8.0
+Ford,Expedition,2024,86490.0,6,Gasoline,6.0,automatic,King Ranch,SUV,4,Black,Java,Four-wheel Drive,brand new,0,1,6.0
+RAM,3500,2024,84701.0,6,Diesel,15.0,automatic,Laramie,Pickup Truck,4,Billet Silver Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,15.0
+BMW,X7,2024,88695.0,6,Gasoline,9.0,automatic,xDrive40i,SUV,4,Sparkling,Black,All-wheel Drive,brand new,0,1,9.0
+Kia,Sportage,2024,33573.0,4,Gasoline,10.0,automatic,X-Line,SUV,4,Gravity Gray,Black,All-wheel Drive,brand new,0,1,10.0
+Mercedes-Benz,Sprinter 2500,2024,69017.0,4,Diesel,10.0,automatic,144 WB Standard Roof Passenger,Passenger Van,3,Jet Black,Black,Rear-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,60925.0,6,Diesel,10.0,automatic,Tradesman,Pickup Truck,4,Delmonico Red Pearlcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+Cadillac,LYRIQ,2024,73110.0,5,Electric,19.0,single-speed (EV),Luxury,SUV,4,Emerald,Gray,All-wheel Drive,brand new,0,1,19.0
+Kia,Telluride,2024,51965.0,6,Gasoline,8.0,automatic,SX X-Pro,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,8.0
+Jeep,Wagoneer L,2024,74366.0,6,Gasoline,4.0,automatic,Base,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,4.0
+RAM,3500,2024,63670.0,6,Diesel,22.0,automatic,Tradesman,Pickup Truck,4,Flame Red Clearcoat,Diesel Gray/Black,Four-wheel Drive,brand new,0,1,22.0
+Ford,Bronco Sport,2024,35010.0,3,Gasoline,10.0,automatic,Big Bend,SUV,4,Hot Pepper Red Metallic Tinted Clearcoat,Ebony,Four-wheel Drive,brand new,0,1,10.0
+Mazda,CX-90,2024,49900.0,6,Gasoline,0.0,automatic,3.3 Turbo Premium Plus,SUV,4,Machine Gray Metallic,Black,All-wheel Drive,brand new,0,1,0.0
+Mercedes-Benz,GLE 450,2024,75925.0,6,Gasoline,7.0,automatic,4MATIC,SUV,4,Polar White,Black,All-wheel Drive,brand new,0,1,7.0
+RAM,3500,2024,93303.0,6,Diesel,10.0,automatic,Laramie,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Black,Four-wheel Drive,brand new,0,1,10.0
+Mazda,CX-90 PHEV,2024,58049.0,4,Hybrid,4.0,automatic,Premium Plus,SUV,4,Platinum,Black,All-wheel Drive,brand new,0,1,4.0
+Jeep,Grand Cherokee L,2024,49260.0,6,Gasoline,10.0,automatic,Altitude,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Ford,Transit-150,2024,52640.0,6,E85 Flex Fuel,6.0,automatic,Base,Cargo Van,3,Oxford White,Gray,Rear-wheel Drive,brand new,0,1,6.0
+Kia,Sportage,2024,38040.0,4,Gasoline,1.0,automatic,SX-Prestige,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,1.0
+Hyundai,Kona,2024,32491.0,4,Gasoline,10.0,automatic,Limited,SUV,4,Abyss Black Pearl,Black,Front-wheel Drive,brand new,0,1,10.0
+Mercedes-Benz,GLA 250,2024,51725.0,4,Gasoline,7.0,automatic,Base 4MATIC,SUV,4,Midnight Black,Black,All-wheel Drive,brand new,0,1,7.0
+Chevrolet,Silverado 1500,2024,58720.0,6,Diesel,0.0,automatic,LT,Pickup Truck,4,Sterling Gray Metallic,Jet Black,Four-wheel Drive,brand new,0,1,0.0
+Genesis,Electrified GV70,2024,60490.0,5,Electric,11.0,single-speed (EV),Advanced,SUV,4,Vik Black,Black,All-wheel Drive,brand new,0,1,11.0
+BMW,i7,2024,110262.7,5,Electric,0.0,single-speed (EV),M70,Sedan,4,Gray Metallic,Caramel,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Tucson Hybrid,2024,37215.0,4,Hybrid,8.0,automatic,SEL Convenience,SUV,4,Black Pearl,Gray,All-wheel Drive,brand new,0,1,8.0
+Kia,Sportage,2024,32995.0,4,Gasoline,10.0,automatic,SX,SUV,4,Ebony Black,Black,Front-wheel Drive,brand new,0,1,10.0
+Dodge,Durango,2023,47340.0,8,Gasoline,14.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,7.0
+Mazda,CX-90,2024,54800.0,6,Gasoline,0.0,automatic,3.3 Turbo S Premium,SUV,4,Rhodium White Metallic,White,All-wheel Drive,brand new,0,1,0.0
+Jeep,Grand Cherokee 4xe,2024,49285.0,4,Gasoline,15.0,automatic,Base,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,15.0
+Dodge,Hornet,2024,49895.0,4,Gasoline,0.0,other,Hornet R/T Plus Eawd,SUV,4,Gray Cray,Black,All-wheel Drive,brand new,0,1,0.0
+Jeep,Compass,2024,28860.0,4,Gasoline,11.0,automatic,Latitude,SUV,4,Hydro Blue Pearlcoat,Black,Four-wheel Drive,brand new,0,1,11.0
+Jeep,Grand Cherokee 4xe,2024,63440.0,4,Hybrid,5.0,automatic,Base,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,5.0
+Honda,CR-V,2025,38305.0,5,Gasoline,0.0,cvt,EX-L,SUV,4,Urban Gray Pearl,Black,All-wheel Drive,brand new,0,0,0.0
+Dodge,Durango,2024,57486.0,8,Gasoline,10.0,automatic,R/T,SUV,4,Destroyer Gray Clearcoat,Black,All-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,40085.0,4,Hybrid,16.0,automatic,R/T,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,16.0
+Volvo,S60 Recharge Plug-In Hybrid,2024,57545.0,4,Hybrid,3.0,automatic,T8 Plus Dark Theme,Sedan,4,Onyx Black Metallic,Charcoal,All-wheel Drive,brand new,0,1,3.0
+Ford,Transit-350,2024,74391.0,6,Gasoline,85.0,automatic,Base,Cargo Van,3,Oxford White,gray,All-wheel Drive,brand new,0,1,85.0
+Kia,Sorento,2023,44876.0,4,Gasoline,16.0,automatic,EX,SUV,4,Ebony Black,Black,All-wheel Drive,brand new,0,2,8.0
+RAM,3500,2024,64965.0,6,Diesel,16.0,automatic,Tradesman,Pickup Truck,4,Granite Crystal Metallic Clearcoat,Diesel Gray/Black,Four-wheel Drive,brand new,0,1,16.0
+Ford,Escape,2024,38481.0,4,Hybrid,10.0,automatic,Platinum,SUV,4,Agate Black Metallic,Ebony,All-wheel Drive,brand new,0,1,10.0
+RAM,3500,2024,77085.0,6,Diesel,16.0,automatic,Laramie,Pickup Truck,4,Pearl White,Black,Four-wheel Drive,brand new,0,1,16.0
+Mazda,CX-90 PHEV,2024,58825.0,4,Gasoline,5.0,automatic,Base,SUV,4,Deep Crystal Blue Mica,White,All-wheel Drive,brand new,0,1,5.0
+Nissan,Kicks,2024,26335.0,4,Gasoline,12.0,cvt,SR,SUV,4,Boulder Gray Metallic,Charcoal,Front-wheel Drive,brand new,0,1,12.0
+Dodge,Hornet,2024,49720.0,4,Gasoline,0.0,other,Hornet R/T Plus Eawd,SUV,4,Acapulco Gold,Black,All-wheel Drive,brand new,0,1,0.0
+Chevrolet,Silverado 1500,2024,50565.0,4,Gasoline,0.0,automatic,Custom,Pickup Truck,4,Black,Jet Black,Four-wheel Drive,brand new,0,1,0.0
+Chevrolet,Equinox,2024,38717.0,4,Gasoline,11.0,automatic,RS,SUV,4,Radiant Red,Jet Black,All-wheel Drive,brand new,0,1,11.0
+Cadillac,XT6,2024,50415.0,4,Gasoline,6.0,automatic,Luxury FWD,SUV,4,Crystal White Tri-Coat,Jet Black,Front-wheel Drive,brand new,0,1,6.0
+Ford,Transit-250,2024,50486.0,6,E85 Flex Fuel,24.0,automatic,148 WB Medium Roof Cargo,Cargo Van,3,Oxford White,Dark Palazzo,Rear-wheel Drive,brand new,0,1,24.0
+Volkswagen,Taos,2024,32406.0,4,Gasoline,11.0,automatic,1.5T SE,SUV,4,Deep Black Pearl,Black,Front-wheel Drive,brand new,0,1,11.0
+Kia,Sportage,2024,40250.0,4,Gasoline,1.0,automatic,X-Pro Prestige,SUV,4,Black,Black,All-wheel Drive,brand new,0,1,1.0
+Dodge,Durango,2023,47340.0,8,Gasoline,11.0,automatic,Pursuit,SUV,4,DB Black Crystal Clearcoat,Black,All-wheel Drive,brand new,0,2,5.5
+Subaru,Impreza,2024,29068.0,4,Gasoline,5.0,cvt,Sport,Hatchback,4,Pure Red,Black,All-wheel Drive,brand new,0,1,5.0
+Mazda,CX-70,2025,54620.0,6,Gasoline,0.0,automatic,3.3 Turbo S Premium,SUV,4,41w,Red,All-wheel Drive,brand new,0,0,0.0
+Chrysler,Voyager,2024,38954.0,6,Gasoline,5.0,automatic,LX,Passenger Van,4,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee,2024,49842.0,6,Gasoline,8.0,automatic,Limited,SUV,4,Bright White Clearcoat,Beige / Black,Four-wheel Drive,brand new,0,1,8.0
+Nissan,Murano,2024,46510.0,6,Gasoline,6.0,cvt,SL,SUV,4,Scarlet Ember,Graphite,All-wheel Drive,brand new,0,1,6.0
+Hyundai,Tucson Hybrid,2024,40933.0,4,Hybrid,7.0,automatic,Limited,SUV,4,Black Pearl,Gray,All-wheel Drive,brand new,0,1,7.0
+BMW,X3,2024,49395.0,4,Gasoline,5.0,automatic,sDrive30i,SUV,4,Jet Black,Cognac,Rear-wheel Drive,brand new,0,1,5.0
+Jeep,Compass,2024,28265.0,4,Gasoline,7.0,automatic,Latitude,SUV,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,7.0
+RAM,2500,2024,53750.0,8,Gasoline,0.0,automatic,Tradesman Regular Cab 4x4 8&#39; Box,Pickup Truck,2,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,brand new,0,1,0.0
+Subaru,Outback,2024,39822.0,4,Gasoline,8.0,cvt,Limited,SUV,4,Crystal White Pearl,Black,All-wheel Drive,brand new,0,1,8.0
+Jeep,Wagoneer L,2024,88135.0,6,Gasoline,21.0,automatic,Series II,SUV,4,Velvet Red Pearlcoat,Black,Four-wheel Drive,brand new,0,1,21.0
+Ford,Escape,2024,30798.0,3,Gasoline,8.0,automatic,ST-Line,SUV,4,Agate Black Metallic,Red,Front-wheel Drive,brand new,0,1,8.0
+Volvo,C40 Recharge Pure Electric,2023,62240.0,0,Electric,0.0,automatic,Twin Ultimate,SUV,4,Gray,Charcoal,All-wheel Drive,brand new,0,2,0.0
+Jeep,Compass,2023,38300.0,4,Gasoline,24.0,automatic,Trailhawk,SUV,4,Bright White Clearcoat,Ruby Red/Black,Four-wheel Drive,brand new,0,2,12.0
+Volkswagen,Taos,2024,25311.0,4,Gasoline,5.0,automatic,1.5T S,SUV,4,Pyrite Silver Metallic,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,49201.0,6,Gasoline,10.0,automatic,Laredo,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Volkswagen,Taos,2024,29386.0,4,Gasoline,11.0,automatic,1.5T SE,SUV,4,Pure White,Black,All-wheel Drive,brand new,0,1,11.0
+Jeep,Wagoneer L,2023,72835.0,6,Gasoline,20.0,automatic,Base,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,2,10.0
+Volkswagen,Taos,2024,28994.0,4,Gasoline,6.0,automatic,1.5T SE,SUV,4,Platinum Gray Metallic,Black,All-wheel Drive,brand new,0,1,6.0
+Dodge,Hornet,2024,49895.0,4,Gasoline,0.0,other,Hornet R/T Plus Eawd,SUV,4,Hot Tamale,Black,All-wheel Drive,brand new,0,1,0.0
+Hyundai,Tucson Hybrid,2024,36280.0,4,Hybrid,241.0,automatic,SEL Convenience,SUV,4,Shimmering Silver,Gray,All-wheel Drive,test driven,0,1,241.0
+Ford,Expedition,2024,80374.0,6,Gasoline,13.0,automatic,Limited,SUV,4,Black,Black Onyx,Four-wheel Drive,brand new,0,1,13.0
+RAM,ProMaster 1500,2024,51380.0,6,Gasoline,10.0,automatic,Low Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,52180.0,4,Gasoline,0.0,other,Hornet R/T Plus Eawd,SUV,4,Blue Steele,Black,All-wheel Drive,brand new,0,1,0.0
+Volkswagen,Taos,2024,28998.0,4,Gasoline,11.0,automatic,1.5T SE,SUV,4,Platinum Gray Metallic,Black,All-wheel Drive,brand new,0,1,11.0
+Nissan,Kicks,2024,24979.0,4,Gasoline,5.0,cvt,SV,SUV,4,Scarlet Ember Tintcoat/Super Black,Charcoal,Front-wheel Drive,brand new,0,1,5.0
+Ford,Transit-350,2024,52530.0,6,E85 Flex Fuel,1.0,other,148 WB Medium Roof Cargo,Cargo Van,3,White,unknown,Rear-wheel Drive,brand new,0,1,1.0
+Hyundai,IONIQ 5,2024,38201.0,5,Electric,12.0,automatic,SE,SUV,4,Teal,Gray,Rear-wheel Drive,brand new,0,1,12.0
+RAM,ProMaster 2500,2023,50245.0,6,Gasoline,0.0,automatic,High Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,2,0.0
+Kia,EV6,2024,41528.0,5,Electric,13.0,automatic,Wind,SUV,4,Blue,Black,All-wheel Drive,brand new,0,1,13.0
+Jeep,Grand Cherokee 4xe,2024,49082.0,4,Gasoline,51.0,automatic,Base,SUV,4,Bright White Clearcoat,Wicker Beige/Black,Four-wheel Drive,brand new,0,1,51.0
+Subaru,Impreza,2024,32098.0,4,Gasoline,5.0,cvt,RS,Hatchback,4,Crystal Black Silica,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee 4xe,2024,53791.0,4,Hybrid,11.0,automatic,Base,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,11.0
+Jeep,Grand Cherokee L,2024,49139.0,6,Gasoline,10.0,automatic,Laredo,SUV,4,Velvet Red Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Ford,Expedition,2024,72135.0,6,Gasoline,7.0,automatic,XLT,SUV,4,Black,Black Onyx,Four-wheel Drive,brand new,0,1,7.0
+Honda,CR-V,2024,37965.0,4,Gasoline,0.0,cvt,EX-L,SUV,4,Still Night Pearl,Black,All-wheel Drive,brand new,0,1,0.0
+Kia,Soul,2024,21433.68,4,Gasoline,5.0,automatic,S,Hatchback,4,Midnight Sapphire,Black,Front-wheel Drive,brand new,0,1,5.0
+Hyundai,Tucson Hybrid,2024,37335.0,4,Hybrid,1.0,automatic,SEL Convenience,SUV,4,Black Pearl,Black,All-wheel Drive,brand new,0,1,1.0
+Kia,Sportage,2024,33785.0,4,Gasoline,1.0,automatic,X-Line,SUV,4,Red,Black,All-wheel Drive,brand new,0,1,1.0
+Chrysler,300,2023,35994.0,6,Gasoline,10.0,automatic,Touring L,Sedan,4,Gloss Black,Black,Rear-wheel Drive,brand new,0,2,5.0
+GMC,Sierra 2500,2024,48268.0,8,Gasoline,3.0,automatic,Pro,Pickup Truck,2,Summit White,Jet Black,Rear-wheel Drive,brand new,0,1,3.0
+Dodge,Hornet,2024,45141.0,4,Hybrid,5.0,automatic,R/T Plus,SUV,4,Blue Steel,Black,All-wheel Drive,brand new,0,1,5.0
+Volkswagen,Taos,2024,28098.0,4,Gasoline,66.0,automatic,1.5T S,SUV,4,Deep Black Pearl,Gray/Black,All-wheel Drive,brand new,0,1,66.0
+Nissan,Kicks,2024,24430.0,4,Gasoline,12.0,cvt,SR,SUV,4,Electric Blue Metallic,Charcoal,Front-wheel Drive,brand new,0,1,12.0
+Nissan,Kicks,2024,24430.0,4,Gasoline,12.0,cvt,SR,SUV,4,Super Black,Charcoal,Front-wheel Drive,brand new,0,1,12.0
+Nissan,Kicks,2024,25080.0,4,Gasoline,12.0,cvt,SR,SUV,4,Aspen White / Super Black,Charcoal,Front-wheel Drive,brand new,0,1,12.0
+Mercedes-Benz,AMG C 43,2024,73960.0,4,Gasoline,5.0,automatic,Base 4MATIC,Sedan,4,Obsidian Black Metallic,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,46659.0,6,Gasoline,10.0,automatic,Laredo,SUV,4,Diamond Black,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Dodge,Hornet,2024,43490.0,4,Hybrid,18.0,automatic,R/T,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,18.0
+Dodge,Durango,2023,47280.0,8,Gasoline,22.0,automatic,Pursuit,SUV,4,White Knuckle Clearcoat,Black,All-wheel Drive,brand new,0,2,11.0
+RAM,3500,2024,80927.0,6,Diesel,11.0,automatic,Laramie Crew Cab 4x4 8&#39; Box,Pickup Truck,4,White,Black,Four-wheel Drive,brand new,0,1,11.0
+Chevrolet,Equinox,2024,33977.0,4,Gasoline,6.0,automatic,1LT,SUV,4,Summit White,Jet Black,All-wheel Drive,brand new,0,1,6.0
+Kia,Sportage,2024,35795.0,4,Gasoline,41.0,automatic,X-Line,SUV,4,Wolf Gray,unknown,All-wheel Drive,brand new,0,1,41.0
+Ford,Maverick,2024,36550.0,4,Gasoline,4.0,automatic,XLT,Pickup Truck,4,Carbonized Gray Metallic,Black Onyx,All-wheel Drive,brand new,0,1,4.0
+Hyundai,Tucson Hybrid,2024,37805.0,4,Hybrid,10.0,automatic,SEL Convenience,SUV,4,White Pearl,Gray,All-wheel Drive,brand new,0,1,10.0
+Jeep,Wagoneer,2024,74625.0,6,Gasoline,10.0,automatic,Series II,SUV,4,Silver,Global Black,Four-wheel Drive,brand new,0,1,10.0
+Kia,Sportage,2024,35400.0,4,Gasoline,141.0,automatic,X-Line,SUV,4,Jungle Green,unknown,All-wheel Drive,test driven,0,1,141.0
+Dodge,Hornet,2024,43613.0,4,Hybrid,5.0,automatic,R/T Plus,SUV,4,Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,49836.0,6,Gasoline,7.0,automatic,Altitude,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,7.0
+Hyundai,Kona,2024,27555.0,4,Gasoline,0.0,cvt,SE,SUV,4,Orange Pearl,Black,All-wheel Drive,brand new,0,1,0.0
+Ford,Escape,2024,29305.0,3,Gasoline,10.0,automatic,Active,SUV,4,Carbonized Gray Metallic,Ebony,Front-wheel Drive,brand new,0,1,10.0
+Ford,Edge,2024,40015.0,4,Gasoline,2.0,automatic,SE,SUV,4,Gray,Ebony,All-wheel Drive,brand new,0,1,2.0
+Kia,Sportage,2024,35195.0,4,Gasoline,10.0,automatic,SX-Prestige,SUV,4,Ebony Black,Black,Front-wheel Drive,brand new,0,1,10.0
+Kia,EV6,2024,43439.0,5,Electric,14.0,automatic,Wind,SUV,4,Aurora Black Pearl,Black,All-wheel Drive,brand new,0,1,14.0
+Ford,Bronco Sport,2024,35615.0,3,Gasoline,0.0,automatic,Outer Banks,SUV,4,Cactus Gray,Navy Pier,Four-wheel Drive,brand new,0,1,0.0
+Kia,Forte,2024,21433.68,4,Gasoline,8.0,cvt,LXS,Sedan,4,Steel Gray,Black,Front-wheel Drive,brand new,0,1,8.0
+Nissan,Versa,2024,21433.68,4,Gasoline,4.0,cvt,S,Sedan,4,Gun Metallic,Charcoal,Front-wheel Drive,brand new,0,1,4.0
+Ford,Explorer,2024,43685.0,4,Gasoline,8.0,automatic,XLT,SUV,4,Carbonized Gray Metallic,Ebony,Rear-wheel Drive,brand new,0,1,8.0
+Jeep,Wagoneer L,2024,66770.0,6,Gasoline,20.0,automatic,Base,SUV,4,Silver Zynith,Global Black,Four-wheel Drive,brand new,0,1,20.0
+RAM,ProMaster 1500,2024,48822.0,6,Gasoline,12.0,automatic,Low Roof,Cargo Van,3,Bright White Clearcoat,Black,Front-wheel Drive,brand new,0,1,12.0
+Hyundai,Tucson Hybrid,2024,37220.0,4,Hybrid,5.0,automatic,SEL Convenience,SUV,4,Deep Sea,Gray,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee 4xe,2024,67164.0,4,Hybrid,29.0,automatic,Trailhawk,SUV,4,Metallic,Global Black,Four-wheel Drive,brand new,0,1,29.0
+Hyundai,Tucson Hybrid,2024,37309.0,4,Hybrid,5.0,automatic,SEL Convenience,SUV,4,Amazon Gray,Black,All-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee 4xe,2024,77314.0,4,Hybrid,6.0,automatic,Overland,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,6.0
+Jeep,Grand Cherokee 4xe,2024,70312.0,4,Hybrid,24.0,automatic,Overland,SUV,4,Midnight Sky,Global Black,Four-wheel Drive,brand new,0,1,24.0
+Jeep,Compass,2024,36331.0,4,Gasoline,17.0,automatic,Latitude,SUV,4,Silver Zynith,Black,Four-wheel Drive,brand new,0,1,17.0
+Jeep,Grand Cherokee 4xe,2024,62343.0,4,Hybrid,11.0,automatic,Base,SUV,4,Bright White Clearcoat,Global Black,Four-wheel Drive,brand new,0,1,11.0
+RAM,3500,2024,67446.0,6,Diesel,296.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Diesel Gray/Black,Four-wheel Drive,test driven,0,1,296.0
+Hyundai,Tucson Hybrid,2024,40835.0,4,Hybrid,16.0,automatic,Limited,SUV,4,Amazon Gray,Black,All-wheel Drive,brand new,0,1,16.0
+Jeep,Gladiator,2024,54620.0,6,Gasoline,5.0,automatic,Sport,Pickup Truck,4,Granite Crystal Clearcoat Metallic,Black,Four-wheel Drive,brand new,0,1,5.0
+Jeep,Grand Cherokee L,2024,59674.0,6,Gasoline,8.0,automatic,Limited,SUV,4,Diamond Black Crystal Pearlcoat,Global Black,Four-wheel Drive,brand new,0,1,8.0
+RAM,2500,2024,69315.0,6,Diesel,0.0,automatic,Tradesman,Pickup Truck,4,Bright White Clearcoat,Black,Four-wheel Drive,brand new,0,1,0.0
+Mercedes-Benz,Sprinter 2500,2024,59037.0,4,Diesel,10.0,automatic,Standard Roof,Cargo Van,3,Arctic White,Black,Rear-wheel Drive,brand new,0,1,10.0
+Jeep,Wagoneer,2024,69085.0,6,Gasoline,20.0,automatic,Base,SUV,4,Diamond Black,Black,Four-wheel Drive,brand new,0,1,20.0
+Nissan,Murano,2024,43495.0,6,Gasoline,6.0,automatic,SV Intelligent AWD,SUV,4,Pearl White Tricoat,Graphite,All-wheel Drive,brand new,0,1,6.0
+Chevrolet,Silverado 2500,2024,48995.0,8,Gasoline,31.0,automatic,WT,Pickup Truck,4,Wheatland Yellow,Jet Black,Rear-wheel Drive,brand new,0,1,31.0

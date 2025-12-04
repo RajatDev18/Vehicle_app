@@ -1,0 +1,156 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="row justify-content-center">
+    <div class="col-lg-10">
+        <div class="card">
+            <div class="card-header">
+                <h2 class="mb-0">Vehicle Details</h2>
+                <p class="text-muted mb-0">Enter the specifications to get an accurate price estimate.</p>
+            </div>
+            <div class="card-body p-4">
+                {% if error %}
+                <div class="alert alert-danger" role="alert">
+                    <i class="bi bi-exclamation-triangle-fill me-2"></i>{{ error }}
+                </div>
+                {% endif %}
+
+                <form action="/predict" method="POST">
+                    <!-- Basic Info -->
+                    <div class="mb-5">
+                        <h4 class="feature-group-title">Basic Information</h4>
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label for="make" class="form-label">Make</label>
+                                <select class="form-select" id="make" name="make" required>
+                                    <option value="" selected disabled>Select Make</option>
+                                    {% for opt in options.get('make', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="model" class="form-label">Model</label>
+                                <select class="form-select" id="model" name="model" required>
+                                    <option value="" selected disabled>Select Model</option>
+                                    {% for opt in options.get('model', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="year" class="form-label">Year</label>
+                                <input type="number" class="form-control" id="year" name="year" min="1990" max="2025"
+                                    placeholder="e.g. 2023" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Engine & Performance -->
+                    <div class="mb-5">
+                        <h4 class="feature-group-title">Engine & Performance</h4>
+                        <div class="row g-3">
+                            <div class="col-md-3">
+                                <label for="cylinders" class="form-label">Cylinders</label>
+                                <input type="number" class="form-control" id="cylinders" name="cylinders" min="0"
+                                    max="16" placeholder="e.g. 4" required>
+                            </div>
+                            <div class="col-md-3">
+                                <label for="fuel" class="form-label">Fuel Type</label>
+                                <select class="form-select" id="fuel" name="fuel" required>
+                                    <option value="" selected disabled>Select Fuel</option>
+                                    {% for opt in options.get('fuel', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                                <label for="transmission" class="form-label">Transmission</label>
+                                <select class="form-select" id="transmission" name="transmission" required>
+                                    <option value="" selected disabled>Select Transmission</option>
+                                    {% for opt in options.get('transmission', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-3">
+                                <label for="drivetrain" class="form-label">Drivetrain</label>
+                                <select class="form-select" id="drivetrain" name="drivetrain" required>
+                                    <option value="" selected disabled>Select Drivetrain</option>
+                                    {% for opt in options.get('drivetrain', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Body & Exterior -->
+                    <div class="mb-5">
+                        <h4 class="feature-group-title">Body & Style</h4>
+                        <div class="row g-3">
+                            <div class="col-md-4">
+                                <label for="body" class="form-label">Body Type</label>
+                                <select class="form-select" id="body" name="body" required>
+                                    <option value="" selected disabled>Select Body</option>
+                                    {% for opt in options.get('body', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="trim" class="form-label">Trim</label>
+                                <select class="form-select" id="trim" name="trim" required>
+                                    <option value="" selected disabled>Select Trim</option>
+                                    {% for opt in options.get('trim', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-4">
+                                <label for="doors" class="form-label">Doors</label>
+                                <input type="number" class="form-control" id="doors" name="doors" min="2" max="6"
+                                    placeholder="e.g. 4" required>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="exterior_color" class="form-label">Exterior Color</label>
+                                <select class="form-select" id="exterior_color" name="exterior_color" required>
+                                    <option value="" selected disabled>Select Color</option>
+                                    {% for opt in options.get('exterior_color', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <div class="col-md-6">
+                                <label for="interior_color" class="form-label">Interior Color</label>
+                                <select class="form-select" id="interior_color" name="interior_color" required>
+                                    <option value="" selected disabled>Select Color</option>
+                                    {% for opt in options.get('interior_color', []) %}
+                                    <option value="{{ opt }}">{{ opt }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Usage -->
+                    <div class="mb-5">
+                        <h4 class="feature-group-title">Usage</h4>
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <label for="mileage" class="form-label">Mileage (miles)</label>
+                                <input type="number" class="form-control" id="mileage" name="mileage" min="0" step="0.1"
+                                    placeholder="e.g. 15000" required>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="d-grid gap-2">
+                        <button type="submit" class="btn btn-primary btn-lg">Predict Price</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

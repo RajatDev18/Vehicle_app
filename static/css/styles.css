@@ -1,0 +1,99 @@
+:root {
+    --primary-color: #4361ee;
+    --secondary-color: #3f37c9;
+    --accent-color: #4895ef;
+    --background-color: #f8f9fa;
+    --card-bg: #ffffff;
+    --text-color: #2b2d42;
+}
+
+body {
+    font-family: 'Outfit', sans-serif;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.bg-dark-gradient {
+    background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.content-wrapper {
+    flex: 1;
+    padding-bottom: 2rem;
+}
+
+.card {
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.05);
+    background: var(--card-bg);
+    transition: transform 0.3s ease;
+}
+
+.card-header {
+    background: transparent;
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    padding: 1.5rem;
+}
+
+.form-label {
+    font-weight: 600;
+    font-size: 0.9rem;
+    color: #4a4e69;
+    margin-bottom: 0.5rem;
+}
+
+.form-control, .form-select {
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+    padding: 0.75rem 1rem;
+    transition: all 0.2s;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(67, 97, 238, 0.15);
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, var(--primary-color) 0%, var(--secondary-color) 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 0.8rem 2rem;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.btn-primary:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(67, 97, 238, 0.3);
+}
+
+.prediction-card {
+    background: linear-gradient(135deg, #4361ee 0%, #3f37c9 100%);
+    color: white;
+    text-align: center;
+    padding: 3rem;
+}
+
+.price-tag {
+    font-size: 3.5rem;
+    font-weight: 700;
+    margin: 1rem 0;
+    text-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+
+.feature-group-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--secondary-color);
+    margin-bottom: 1.5rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid #e9ecef;
+    display: inline-block;
+}
