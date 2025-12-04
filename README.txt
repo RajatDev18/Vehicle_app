@@ -18,14 +18,6 @@ Installation
 2. Install the required dependencies:
    pip install flask pandas joblib scikit-learn xgboost
 
-Running the Application
------------------------
-1. Start the Flask server:
-   python app.py
-
-2. Open your web browser and go to:
-   http://127.0.0.1:5000/
-
 Usage
 -----
 - Select the vehicle Make, Model, and other details from the dropdowns.
